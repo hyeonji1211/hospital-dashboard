@@ -1,0 +1,8002 @@
+[
+  {
+    "device_id":"DEV-0000",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-11 21:22:25.272355",
+    "usage_hours":1335
+  },
+  {
+    "device_id":"DEV-0001",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-20 21:22:25.272376",
+    "usage_hours":2283
+  },
+  {
+    "device_id":"DEV-0002",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-14 21:22:25.272382",
+    "usage_hours":4631
+  },
+  {
+    "device_id":"DEV-0003",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-29 21:22:25.272387",
+    "usage_hours":2498
+  },
+  {
+    "device_id":"DEV-0004",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-09-27 21:22:25.272391",
+    "usage_hours":1415
+  },
+  {
+    "device_id":"DEV-0005",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-13 21:22:25.272394",
+    "usage_hours":1150
+  },
+  {
+    "device_id":"DEV-0006",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-06 21:22:25.272398",
+    "usage_hours":2376
+  },
+  {
+    "device_id":"DEV-0007",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-23 21:22:25.272401",
+    "usage_hours":1921
+  },
+  {
+    "device_id":"DEV-0008",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-28 21:22:25.272404",
+    "usage_hours":1910
+  },
+  {
+    "device_id":"DEV-0009",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-18 21:22:25.272407",
+    "usage_hours":2849
+  },
+  {
+    "device_id":"DEV-0010",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-18 21:22:25.272410",
+    "usage_hours":618
+  },
+  {
+    "device_id":"DEV-0011",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-25 21:22:25.272413",
+    "usage_hours":3114
+  },
+  {
+    "device_id":"DEV-0012",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-06 21:22:25.272416",
+    "usage_hours":4447
+  },
+  {
+    "device_id":"DEV-0013",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-12 21:22:25.272419",
+    "usage_hours":360
+  },
+  {
+    "device_id":"DEV-0014",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-17 21:22:25.272422",
+    "usage_hours":787
+  },
+  {
+    "device_id":"DEV-0015",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-07 21:22:25.272425",
+    "usage_hours":4034
+  },
+  {
+    "device_id":"DEV-0016",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-20 21:22:25.272428",
+    "usage_hours":4580
+  },
+  {
+    "device_id":"DEV-0017",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-25 21:22:25.272432",
+    "usage_hours":1094
+  },
+  {
+    "device_id":"DEV-0018",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-07 21:22:25.272435",
+    "usage_hours":1917
+  },
+  {
+    "device_id":"DEV-0019",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-26 21:22:25.272438",
+    "usage_hours":3858
+  },
+  {
+    "device_id":"DEV-0020",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-19 21:22:25.272441",
+    "usage_hours":256
+  },
+  {
+    "device_id":"DEV-0021",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-24 21:22:25.272444",
+    "usage_hours":3950
+  },
+  {
+    "device_id":"DEV-0022",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-19 21:22:25.272447",
+    "usage_hours":1999
+  },
+  {
+    "device_id":"DEV-0023",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-25 21:22:25.272450",
+    "usage_hours":2472
+  },
+  {
+    "device_id":"DEV-0024",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-17 21:22:25.272453",
+    "usage_hours":312
+  },
+  {
+    "device_id":"DEV-0025",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-13 21:22:25.272457",
+    "usage_hours":743
+  },
+  {
+    "device_id":"DEV-0026",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-26 21:22:25.272460",
+    "usage_hours":2720
+  },
+  {
+    "device_id":"DEV-0027",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-16 21:22:25.272463",
+    "usage_hours":4252
+  },
+  {
+    "device_id":"DEV-0028",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-21 21:22:25.272466",
+    "usage_hours":3591
+  },
+  {
+    "device_id":"DEV-0029",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-20 21:22:25.272469",
+    "usage_hours":4050
+  },
+  {
+    "device_id":"DEV-0030",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-19 21:22:25.272472",
+    "usage_hours":637
+  },
+  {
+    "device_id":"DEV-0031",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-14 21:22:25.272474",
+    "usage_hours":3277
+  },
+  {
+    "device_id":"DEV-0032",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-11 21:22:25.272477",
+    "usage_hours":1563
+  },
+  {
+    "device_id":"DEV-0033",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-23 21:22:25.272480",
+    "usage_hours":1038
+  },
+  {
+    "device_id":"DEV-0034",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-15 21:22:25.272483",
+    "usage_hours":1669
+  },
+  {
+    "device_id":"DEV-0035",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-25 21:22:25.272487",
+    "usage_hours":3269
+  },
+  {
+    "device_id":"DEV-0036",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-01 21:22:25.272490",
+    "usage_hours":3814
+  },
+  {
+    "device_id":"DEV-0037",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-08 21:22:25.272493",
+    "usage_hours":2908
+  },
+  {
+    "device_id":"DEV-0038",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-11 21:22:25.272499",
+    "usage_hours":4833
+  },
+  {
+    "device_id":"DEV-0039",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-14 21:22:25.272502",
+    "usage_hours":994
+  },
+  {
+    "device_id":"DEV-0040",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-22 21:22:25.272505",
+    "usage_hours":1149
+  },
+  {
+    "device_id":"DEV-0041",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-30 21:22:25.272508",
+    "usage_hours":3492
+  },
+  {
+    "device_id":"DEV-0042",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-19 21:22:25.272511",
+    "usage_hours":734
+  },
+  {
+    "device_id":"DEV-0043",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-07 21:22:25.272514",
+    "usage_hours":127
+  },
+  {
+    "device_id":"DEV-0044",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-09 21:22:25.272517",
+    "usage_hours":3170
+  },
+  {
+    "device_id":"DEV-0045",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-23 21:22:25.272520",
+    "usage_hours":4613
+  },
+  {
+    "device_id":"DEV-0046",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-16 21:22:25.272523",
+    "usage_hours":978
+  },
+  {
+    "device_id":"DEV-0047",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-21 21:22:25.272526",
+    "usage_hours":690
+  },
+  {
+    "device_id":"DEV-0048",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-06 21:22:25.272530",
+    "usage_hours":1850
+  },
+  {
+    "device_id":"DEV-0049",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-17 21:22:25.272533",
+    "usage_hours":2800
+  },
+  {
+    "device_id":"DEV-0050",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-29 21:22:25.272536",
+    "usage_hours":4463
+  },
+  {
+    "device_id":"DEV-0051",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-21 21:22:25.272539",
+    "usage_hours":1835
+  },
+  {
+    "device_id":"DEV-0052",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-23 21:22:25.272542",
+    "usage_hours":2944
+  },
+  {
+    "device_id":"DEV-0053",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-06 21:22:25.272545",
+    "usage_hours":1980
+  },
+  {
+    "device_id":"DEV-0054",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-28 21:22:25.272548",
+    "usage_hours":3592
+  },
+  {
+    "device_id":"DEV-0055",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-20 21:22:25.272550",
+    "usage_hours":3348
+  },
+  {
+    "device_id":"DEV-0056",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-08 21:22:25.272553",
+    "usage_hours":4431
+  },
+  {
+    "device_id":"DEV-0057",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-25 21:22:25.272556",
+    "usage_hours":2114
+  },
+  {
+    "device_id":"DEV-0058",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-31 21:22:25.272559",
+    "usage_hours":2539
+  },
+  {
+    "device_id":"DEV-0059",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-22 21:22:25.272562",
+    "usage_hours":3210
+  },
+  {
+    "device_id":"DEV-0060",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-09-27 21:22:25.272565",
+    "usage_hours":4149
+  },
+  {
+    "device_id":"DEV-0061",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-08 21:22:25.272568",
+    "usage_hours":1325
+  },
+  {
+    "device_id":"DEV-0062",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-16 21:22:25.272571",
+    "usage_hours":4179
+  },
+  {
+    "device_id":"DEV-0063",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-25 21:22:25.272574",
+    "usage_hours":2229
+  },
+  {
+    "device_id":"DEV-0064",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-26 21:22:25.272577",
+    "usage_hours":1960
+  },
+  {
+    "device_id":"DEV-0065",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-05 21:22:25.272580",
+    "usage_hours":3395
+  },
+  {
+    "device_id":"DEV-0066",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-17 21:22:25.272583",
+    "usage_hours":4898
+  },
+  {
+    "device_id":"DEV-0067",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-05 21:22:25.272586",
+    "usage_hours":3532
+  },
+  {
+    "device_id":"DEV-0068",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-30 21:22:25.272589",
+    "usage_hours":2524
+  },
+  {
+    "device_id":"DEV-0069",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-14 21:22:25.272592",
+    "usage_hours":4447
+  },
+  {
+    "device_id":"DEV-0070",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-14 21:22:25.272595",
+    "usage_hours":2301
+  },
+  {
+    "device_id":"DEV-0071",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-15 21:22:25.272598",
+    "usage_hours":378
+  },
+  {
+    "device_id":"DEV-0072",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-10 21:22:25.272600",
+    "usage_hours":3102
+  },
+  {
+    "device_id":"DEV-0073",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-05 21:22:25.272603",
+    "usage_hours":4751
+  },
+  {
+    "device_id":"DEV-0074",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-07 21:22:25.272606",
+    "usage_hours":4827
+  },
+  {
+    "device_id":"DEV-0075",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-12 21:22:25.272609",
+    "usage_hours":206
+  },
+  {
+    "device_id":"DEV-0076",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-13 21:22:25.272612",
+    "usage_hours":1382
+  },
+  {
+    "device_id":"DEV-0077",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-01 21:22:25.272617",
+    "usage_hours":1047
+  },
+  {
+    "device_id":"DEV-0078",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-28 21:22:25.272620",
+    "usage_hours":2383
+  },
+  {
+    "device_id":"DEV-0079",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-30 21:22:25.272622",
+    "usage_hours":3638
+  },
+  {
+    "device_id":"DEV-0080",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-18 21:22:25.272625",
+    "usage_hours":4207
+  },
+  {
+    "device_id":"DEV-0081",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-25 21:22:25.272628",
+    "usage_hours":3533
+  },
+  {
+    "device_id":"DEV-0082",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-30 21:22:25.272631",
+    "usage_hours":3227
+  },
+  {
+    "device_id":"DEV-0083",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-07 21:22:25.272634",
+    "usage_hours":4948
+  },
+  {
+    "device_id":"DEV-0084",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-28 21:22:25.272637",
+    "usage_hours":3959
+  },
+  {
+    "device_id":"DEV-0085",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-26 21:22:25.272640",
+    "usage_hours":1529
+  },
+  {
+    "device_id":"DEV-0086",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-16 21:22:25.272643",
+    "usage_hours":2693
+  },
+  {
+    "device_id":"DEV-0087",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-10 21:22:25.272646",
+    "usage_hours":3273
+  },
+  {
+    "device_id":"DEV-0088",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-07 21:22:25.272649",
+    "usage_hours":4654
+  },
+  {
+    "device_id":"DEV-0089",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-17 21:22:25.272652",
+    "usage_hours":4642
+  },
+  {
+    "device_id":"DEV-0090",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-01 21:22:25.272655",
+    "usage_hours":4962
+  },
+  {
+    "device_id":"DEV-0091",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-29 21:22:25.272658",
+    "usage_hours":4129
+  },
+  {
+    "device_id":"DEV-0092",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-25 21:22:25.272661",
+    "usage_hours":4010
+  },
+  {
+    "device_id":"DEV-0093",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-09-30 21:22:25.272664",
+    "usage_hours":1505
+  },
+  {
+    "device_id":"DEV-0094",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-17 21:22:25.272667",
+    "usage_hours":3698
+  },
+  {
+    "device_id":"DEV-0095",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-08 21:22:25.272671",
+    "usage_hours":1985
+  },
+  {
+    "device_id":"DEV-0096",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-29 21:22:25.272673",
+    "usage_hours":895
+  },
+  {
+    "device_id":"DEV-0097",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-13 21:22:25.272676",
+    "usage_hours":611
+  },
+  {
+    "device_id":"DEV-0098",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-18 21:22:25.272679",
+    "usage_hours":4026
+  },
+  {
+    "device_id":"DEV-0099",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-07 21:22:25.272682",
+    "usage_hours":2512
+  },
+  {
+    "device_id":"DEV-0100",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-21 21:22:25.272685",
+    "usage_hours":202
+  },
+  {
+    "device_id":"DEV-0101",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-11 21:22:25.272688",
+    "usage_hours":2530
+  },
+  {
+    "device_id":"DEV-0102",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-10 21:22:25.272691",
+    "usage_hours":369
+  },
+  {
+    "device_id":"DEV-0103",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-11 21:22:25.272694",
+    "usage_hours":1772
+  },
+  {
+    "device_id":"DEV-0104",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-11 21:22:25.272696",
+    "usage_hours":807
+  },
+  {
+    "device_id":"DEV-0105",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-15 21:22:25.272699",
+    "usage_hours":2073
+  },
+  {
+    "device_id":"DEV-0106",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-12 21:22:25.272702",
+    "usage_hours":2107
+  },
+  {
+    "device_id":"DEV-0107",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-05 21:22:25.272706",
+    "usage_hours":656
+  },
+  {
+    "device_id":"DEV-0108",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-10 21:22:25.272709",
+    "usage_hours":1207
+  },
+  {
+    "device_id":"DEV-0109",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-10 21:22:25.272712",
+    "usage_hours":696
+  },
+  {
+    "device_id":"DEV-0110",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-21 21:22:25.272715",
+    "usage_hours":2993
+  },
+  {
+    "device_id":"DEV-0111",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-21 21:22:25.272718",
+    "usage_hours":3731
+  },
+  {
+    "device_id":"DEV-0112",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-27 21:22:25.272721",
+    "usage_hours":2057
+  },
+  {
+    "device_id":"DEV-0113",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-18 21:22:25.272724",
+    "usage_hours":3877
+  },
+  {
+    "device_id":"DEV-0114",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-07 21:22:25.272727",
+    "usage_hours":1984
+  },
+  {
+    "device_id":"DEV-0115",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-11 21:22:25.272730",
+    "usage_hours":4795
+  },
+  {
+    "device_id":"DEV-0116",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-11 21:22:25.272734",
+    "usage_hours":4174
+  },
+  {
+    "device_id":"DEV-0117",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-15 21:22:25.272737",
+    "usage_hours":2716
+  },
+  {
+    "device_id":"DEV-0118",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-27 21:22:25.272740",
+    "usage_hours":1918
+  },
+  {
+    "device_id":"DEV-0119",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-19 21:22:25.272743",
+    "usage_hours":843
+  },
+  {
+    "device_id":"DEV-0120",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-24 21:22:25.272746",
+    "usage_hours":534
+  },
+  {
+    "device_id":"DEV-0121",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-02 21:22:25.272749",
+    "usage_hours":2439
+  },
+  {
+    "device_id":"DEV-0122",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-27 21:22:25.272752",
+    "usage_hours":1018
+  },
+  {
+    "device_id":"DEV-0123",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-01 21:22:25.272755",
+    "usage_hours":3543
+  },
+  {
+    "device_id":"DEV-0124",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-29 21:22:25.272758",
+    "usage_hours":3851
+  },
+  {
+    "device_id":"DEV-0125",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-22 21:22:25.272761",
+    "usage_hours":3027
+  },
+  {
+    "device_id":"DEV-0126",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-23 21:22:25.272764",
+    "usage_hours":4807
+  },
+  {
+    "device_id":"DEV-0127",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-23 21:22:25.272767",
+    "usage_hours":3649
+  },
+  {
+    "device_id":"DEV-0128",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-10 21:22:25.272770",
+    "usage_hours":404
+  },
+  {
+    "device_id":"DEV-0129",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-22 21:22:25.272773",
+    "usage_hours":3130
+  },
+  {
+    "device_id":"DEV-0130",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-05 21:22:25.272776",
+    "usage_hours":1595
+  },
+  {
+    "device_id":"DEV-0131",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-15 21:22:25.272779",
+    "usage_hours":3406
+  },
+  {
+    "device_id":"DEV-0132",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-16 21:22:25.272782",
+    "usage_hours":1296
+  },
+  {
+    "device_id":"DEV-0133",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-02 21:22:25.272785",
+    "usage_hours":4891
+  },
+  {
+    "device_id":"DEV-0134",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-28 21:22:25.272788",
+    "usage_hours":2721
+  },
+  {
+    "device_id":"DEV-0135",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-02 21:22:25.272791",
+    "usage_hours":4105
+  },
+  {
+    "device_id":"DEV-0136",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-22 21:22:25.272794",
+    "usage_hours":1302
+  },
+  {
+    "device_id":"DEV-0137",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-26 21:22:25.272797",
+    "usage_hours":3318
+  },
+  {
+    "device_id":"DEV-0138",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-22 21:22:25.272800",
+    "usage_hours":972
+  },
+  {
+    "device_id":"DEV-0139",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-23 21:22:25.272803",
+    "usage_hours":1552
+  },
+  {
+    "device_id":"DEV-0140",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-21 21:22:25.272806",
+    "usage_hours":2763
+  },
+  {
+    "device_id":"DEV-0141",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-12 21:22:25.272809",
+    "usage_hours":3093
+  },
+  {
+    "device_id":"DEV-0142",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-29 21:22:25.272812",
+    "usage_hours":4873
+  },
+  {
+    "device_id":"DEV-0143",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-18 21:22:25.272815",
+    "usage_hours":1197
+  },
+  {
+    "device_id":"DEV-0144",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-24 21:22:25.272818",
+    "usage_hours":3089
+  },
+  {
+    "device_id":"DEV-0145",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-11 21:22:25.272821",
+    "usage_hours":3355
+  },
+  {
+    "device_id":"DEV-0146",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-09-26 21:22:25.272824",
+    "usage_hours":4454
+  },
+  {
+    "device_id":"DEV-0147",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-31 21:22:25.272827",
+    "usage_hours":4520
+  },
+  {
+    "device_id":"DEV-0148",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-20 21:22:25.272830",
+    "usage_hours":4479
+  },
+  {
+    "device_id":"DEV-0149",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-26 21:22:25.272834",
+    "usage_hours":4340
+  },
+  {
+    "device_id":"DEV-0150",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-04 21:22:25.272836",
+    "usage_hours":2881
+  },
+  {
+    "device_id":"DEV-0151",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-12 21:22:25.272839",
+    "usage_hours":1259
+  },
+  {
+    "device_id":"DEV-0152",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-27 21:22:25.272842",
+    "usage_hours":2408
+  },
+  {
+    "device_id":"DEV-0153",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-19 21:22:25.272845",
+    "usage_hours":3767
+  },
+  {
+    "device_id":"DEV-0154",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-11 21:22:25.272848",
+    "usage_hours":3186
+  },
+  {
+    "device_id":"DEV-0155",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-11 21:22:25.272851",
+    "usage_hours":3764
+  },
+  {
+    "device_id":"DEV-0156",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-27 21:22:25.272854",
+    "usage_hours":1465
+  },
+  {
+    "device_id":"DEV-0157",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-05 21:22:25.272857",
+    "usage_hours":2642
+  },
+  {
+    "device_id":"DEV-0158",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-21 21:22:25.272860",
+    "usage_hours":3817
+  },
+  {
+    "device_id":"DEV-0159",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-04 21:22:25.272863",
+    "usage_hours":2655
+  },
+  {
+    "device_id":"DEV-0160",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-23 21:22:25.272866",
+    "usage_hours":1240
+  },
+  {
+    "device_id":"DEV-0161",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-25 21:22:25.272869",
+    "usage_hours":2260
+  },
+  {
+    "device_id":"DEV-0162",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-22 21:22:25.272872",
+    "usage_hours":1018
+  },
+  {
+    "device_id":"DEV-0163",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-02 21:22:25.272874",
+    "usage_hours":3759
+  },
+  {
+    "device_id":"DEV-0164",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-07 21:22:25.272877",
+    "usage_hours":3728
+  },
+  {
+    "device_id":"DEV-0165",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-30 21:22:25.272880",
+    "usage_hours":1184
+  },
+  {
+    "device_id":"DEV-0166",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-18 21:22:25.272883",
+    "usage_hours":3960
+  },
+  {
+    "device_id":"DEV-0167",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-23 21:22:25.272886",
+    "usage_hours":241
+  },
+  {
+    "device_id":"DEV-0168",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-06 21:22:25.272889",
+    "usage_hours":615
+  },
+  {
+    "device_id":"DEV-0169",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-28 21:22:25.272892",
+    "usage_hours":997
+  },
+  {
+    "device_id":"DEV-0170",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-10 21:22:25.272895",
+    "usage_hours":3022
+  },
+  {
+    "device_id":"DEV-0171",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-28 21:22:25.272898",
+    "usage_hours":3511
+  },
+  {
+    "device_id":"DEV-0172",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-11 21:22:25.272900",
+    "usage_hours":4336
+  },
+  {
+    "device_id":"DEV-0173",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-21 21:22:25.272905",
+    "usage_hours":3360
+  },
+  {
+    "device_id":"DEV-0174",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-29 21:22:25.272908",
+    "usage_hours":817
+  },
+  {
+    "device_id":"DEV-0175",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-25 21:22:25.272911",
+    "usage_hours":4090
+  },
+  {
+    "device_id":"DEV-0176",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-17 21:22:25.272915",
+    "usage_hours":180
+  },
+  {
+    "device_id":"DEV-0177",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-27 21:22:25.272918",
+    "usage_hours":1988
+  },
+  {
+    "device_id":"DEV-0178",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-04 21:22:25.272921",
+    "usage_hours":4347
+  },
+  {
+    "device_id":"DEV-0179",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-20 21:22:25.272924",
+    "usage_hours":4988
+  },
+  {
+    "device_id":"DEV-0180",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-23 21:22:25.272927",
+    "usage_hours":4774
+  },
+  {
+    "device_id":"DEV-0181",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-10 21:22:25.272930",
+    "usage_hours":2130
+  },
+  {
+    "device_id":"DEV-0182",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-20 21:22:25.272933",
+    "usage_hours":1973
+  },
+  {
+    "device_id":"DEV-0183",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-21 21:22:25.272936",
+    "usage_hours":4172
+  },
+  {
+    "device_id":"DEV-0184",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-12 21:22:25.272939",
+    "usage_hours":4472
+  },
+  {
+    "device_id":"DEV-0185",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-17 21:22:25.272942",
+    "usage_hours":2081
+  },
+  {
+    "device_id":"DEV-0186",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-24 21:22:25.272945",
+    "usage_hours":3130
+  },
+  {
+    "device_id":"DEV-0187",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-15 21:22:25.272948",
+    "usage_hours":1282
+  },
+  {
+    "device_id":"DEV-0188",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-15 21:22:25.272951",
+    "usage_hours":4744
+  },
+  {
+    "device_id":"DEV-0189",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-28 21:22:25.272954",
+    "usage_hours":3170
+  },
+  {
+    "device_id":"DEV-0190",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-10 21:22:25.272957",
+    "usage_hours":4096
+  },
+  {
+    "device_id":"DEV-0191",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-06 21:22:25.272959",
+    "usage_hours":3354
+  },
+  {
+    "device_id":"DEV-0192",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-09 21:22:25.272962",
+    "usage_hours":203
+  },
+  {
+    "device_id":"DEV-0193",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-28 21:22:25.272965",
+    "usage_hours":3365
+  },
+  {
+    "device_id":"DEV-0194",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-09 21:22:25.272970",
+    "usage_hours":4729
+  },
+  {
+    "device_id":"DEV-0195",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-17 21:22:25.272973",
+    "usage_hours":2734
+  },
+  {
+    "device_id":"DEV-0196",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-22 21:22:25.272976",
+    "usage_hours":1842
+  },
+  {
+    "device_id":"DEV-0197",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-21 21:22:25.272979",
+    "usage_hours":2659
+  },
+  {
+    "device_id":"DEV-0198",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-03 21:22:25.272982",
+    "usage_hours":3808
+  },
+  {
+    "device_id":"DEV-0199",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-19 21:22:25.272985",
+    "usage_hours":2393
+  },
+  {
+    "device_id":"DEV-0200",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-31 21:22:25.272988",
+    "usage_hours":3358
+  },
+  {
+    "device_id":"DEV-0201",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-01 21:22:25.272992",
+    "usage_hours":2942
+  },
+  {
+    "device_id":"DEV-0202",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-12 21:22:25.272995",
+    "usage_hours":4786
+  },
+  {
+    "device_id":"DEV-0203",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-06 21:22:25.272998",
+    "usage_hours":265
+  },
+  {
+    "device_id":"DEV-0204",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-11 21:22:25.273001",
+    "usage_hours":678
+  },
+  {
+    "device_id":"DEV-0205",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-15 21:22:25.273004",
+    "usage_hours":461
+  },
+  {
+    "device_id":"DEV-0206",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-22 21:22:25.273007",
+    "usage_hours":4116
+  },
+  {
+    "device_id":"DEV-0207",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-02 21:22:25.273010",
+    "usage_hours":4411
+  },
+  {
+    "device_id":"DEV-0208",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-10 21:22:25.273013",
+    "usage_hours":4740
+  },
+  {
+    "device_id":"DEV-0209",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-08 21:22:25.273018",
+    "usage_hours":491
+  },
+  {
+    "device_id":"DEV-0210",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-10 21:22:25.273021",
+    "usage_hours":208
+  },
+  {
+    "device_id":"DEV-0211",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-13 21:22:25.273024",
+    "usage_hours":1130
+  },
+  {
+    "device_id":"DEV-0212",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-30 21:22:25.273027",
+    "usage_hours":1062
+  },
+  {
+    "device_id":"DEV-0213",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-07 21:22:25.273030",
+    "usage_hours":4799
+  },
+  {
+    "device_id":"DEV-0214",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-06 21:22:25.273032",
+    "usage_hours":3970
+  },
+  {
+    "device_id":"DEV-0215",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-24 21:22:25.273035",
+    "usage_hours":3444
+  },
+  {
+    "device_id":"DEV-0216",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-29 21:22:25.273038",
+    "usage_hours":2108
+  },
+  {
+    "device_id":"DEV-0217",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-20 21:22:25.273041",
+    "usage_hours":4742
+  },
+  {
+    "device_id":"DEV-0218",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-22 21:22:25.273044",
+    "usage_hours":2981
+  },
+  {
+    "device_id":"DEV-0219",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-22 21:22:25.273047",
+    "usage_hours":1435
+  },
+  {
+    "device_id":"DEV-0220",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-17 21:22:25.273050",
+    "usage_hours":3337
+  },
+  {
+    "device_id":"DEV-0221",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-08 21:22:25.273053",
+    "usage_hours":1047
+  },
+  {
+    "device_id":"DEV-0222",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-18 21:22:25.273056",
+    "usage_hours":2088
+  },
+  {
+    "device_id":"DEV-0223",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-04 21:22:25.273059",
+    "usage_hours":1533
+  },
+  {
+    "device_id":"DEV-0224",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-02 21:22:25.273062",
+    "usage_hours":1080
+  },
+  {
+    "device_id":"DEV-0225",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-06 21:22:25.273065",
+    "usage_hours":1802
+  },
+  {
+    "device_id":"DEV-0226",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-25 21:22:25.273068",
+    "usage_hours":531
+  },
+  {
+    "device_id":"DEV-0227",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-10 21:22:25.273071",
+    "usage_hours":3549
+  },
+  {
+    "device_id":"DEV-0228",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-21 21:22:25.273074",
+    "usage_hours":3104
+  },
+  {
+    "device_id":"DEV-0229",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-26 21:22:25.273077",
+    "usage_hours":3178
+  },
+  {
+    "device_id":"DEV-0230",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-24 21:22:25.273080",
+    "usage_hours":3894
+  },
+  {
+    "device_id":"DEV-0231",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-10 21:22:25.273083",
+    "usage_hours":594
+  },
+  {
+    "device_id":"DEV-0232",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-11 21:22:25.273086",
+    "usage_hours":2719
+  },
+  {
+    "device_id":"DEV-0233",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-09 21:22:25.273090",
+    "usage_hours":3294
+  },
+  {
+    "device_id":"DEV-0234",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-23 21:22:25.273093",
+    "usage_hours":2300
+  },
+  {
+    "device_id":"DEV-0235",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-04 21:22:25.273096",
+    "usage_hours":3341
+  },
+  {
+    "device_id":"DEV-0236",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-07 21:22:25.273098",
+    "usage_hours":3323
+  },
+  {
+    "device_id":"DEV-0237",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-12 21:22:25.273101",
+    "usage_hours":4303
+  },
+  {
+    "device_id":"DEV-0238",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-21 21:22:25.273105",
+    "usage_hours":4243
+  },
+  {
+    "device_id":"DEV-0239",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-07 21:22:25.273109",
+    "usage_hours":181
+  },
+  {
+    "device_id":"DEV-0240",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-07 21:22:25.273113",
+    "usage_hours":1619
+  },
+  {
+    "device_id":"DEV-0241",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-03 21:22:25.273116",
+    "usage_hours":1781
+  },
+  {
+    "device_id":"DEV-0242",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-17 21:22:25.273119",
+    "usage_hours":1467
+  },
+  {
+    "device_id":"DEV-0243",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-19 21:22:25.273122",
+    "usage_hours":2250
+  },
+  {
+    "device_id":"DEV-0244",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-12 21:22:25.273125",
+    "usage_hours":1777
+  },
+  {
+    "device_id":"DEV-0245",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-14 21:22:25.273128",
+    "usage_hours":4694
+  },
+  {
+    "device_id":"DEV-0246",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-06 21:22:25.273131",
+    "usage_hours":2353
+  },
+  {
+    "device_id":"DEV-0247",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-17 21:22:25.273134",
+    "usage_hours":490
+  },
+  {
+    "device_id":"DEV-0248",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-28 21:22:25.273137",
+    "usage_hours":3195
+  },
+  {
+    "device_id":"DEV-0249",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-05 21:22:25.273140",
+    "usage_hours":1650
+  },
+  {
+    "device_id":"DEV-0250",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-18 21:22:25.273143",
+    "usage_hours":2496
+  },
+  {
+    "device_id":"DEV-0251",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-18 21:22:25.273146",
+    "usage_hours":4133
+  },
+  {
+    "device_id":"DEV-0252",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-25 21:22:25.273149",
+    "usage_hours":3078
+  },
+  {
+    "device_id":"DEV-0253",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-01 21:22:25.273152",
+    "usage_hours":1612
+  },
+  {
+    "device_id":"DEV-0254",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-08 21:22:25.273154",
+    "usage_hours":1156
+  },
+  {
+    "device_id":"DEV-0255",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-06 21:22:25.273157",
+    "usage_hours":4642
+  },
+  {
+    "device_id":"DEV-0256",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-09 21:22:25.273160",
+    "usage_hours":386
+  },
+  {
+    "device_id":"DEV-0257",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-18 21:22:25.273163",
+    "usage_hours":1582
+  },
+  {
+    "device_id":"DEV-0258",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-29 21:22:25.273167",
+    "usage_hours":3863
+  },
+  {
+    "device_id":"DEV-0259",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-21 21:22:25.273170",
+    "usage_hours":2997
+  },
+  {
+    "device_id":"DEV-0260",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-18 21:22:25.273173",
+    "usage_hours":4355
+  },
+  {
+    "device_id":"DEV-0261",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-19 21:22:25.273175",
+    "usage_hours":3592
+  },
+  {
+    "device_id":"DEV-0262",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-25 21:22:25.273178",
+    "usage_hours":3919
+  },
+  {
+    "device_id":"DEV-0263",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-13 21:22:25.273181",
+    "usage_hours":3180
+  },
+  {
+    "device_id":"DEV-0264",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-07 21:22:25.273184",
+    "usage_hours":2908
+  },
+  {
+    "device_id":"DEV-0265",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-13 21:22:25.273187",
+    "usage_hours":972
+  },
+  {
+    "device_id":"DEV-0266",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-20 21:22:25.273190",
+    "usage_hours":508
+  },
+  {
+    "device_id":"DEV-0267",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-31 21:22:25.273194",
+    "usage_hours":2566
+  },
+  {
+    "device_id":"DEV-0268",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-05 21:22:25.273197",
+    "usage_hours":3258
+  },
+  {
+    "device_id":"DEV-0269",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-22 21:22:25.273200",
+    "usage_hours":4867
+  },
+  {
+    "device_id":"DEV-0270",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-06 21:22:25.273203",
+    "usage_hours":306
+  },
+  {
+    "device_id":"DEV-0271",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-11 21:22:25.273206",
+    "usage_hours":992
+  },
+  {
+    "device_id":"DEV-0272",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-21 21:22:25.273210",
+    "usage_hours":197
+  },
+  {
+    "device_id":"DEV-0273",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-23 21:22:25.273213",
+    "usage_hours":232
+  },
+  {
+    "device_id":"DEV-0274",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-22 21:22:25.273216",
+    "usage_hours":1460
+  },
+  {
+    "device_id":"DEV-0275",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-20 21:22:25.273219",
+    "usage_hours":878
+  },
+  {
+    "device_id":"DEV-0276",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-19 21:22:25.273222",
+    "usage_hours":693
+  },
+  {
+    "device_id":"DEV-0277",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-22 21:22:25.273225",
+    "usage_hours":3735
+  },
+  {
+    "device_id":"DEV-0278",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-27 21:22:25.273228",
+    "usage_hours":3633
+  },
+  {
+    "device_id":"DEV-0279",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-06 21:22:25.273231",
+    "usage_hours":2542
+  },
+  {
+    "device_id":"DEV-0280",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-05 21:22:25.273234",
+    "usage_hours":4614
+  },
+  {
+    "device_id":"DEV-0281",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-29 21:22:25.273237",
+    "usage_hours":1442
+  },
+  {
+    "device_id":"DEV-0282",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-09 21:22:25.273241",
+    "usage_hours":2855
+  },
+  {
+    "device_id":"DEV-0283",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-14 21:22:25.273244",
+    "usage_hours":3170
+  },
+  {
+    "device_id":"DEV-0284",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-20 21:22:25.273247",
+    "usage_hours":1768
+  },
+  {
+    "device_id":"DEV-0285",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-03 21:22:25.273250",
+    "usage_hours":2296
+  },
+  {
+    "device_id":"DEV-0286",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-28 21:22:25.273253",
+    "usage_hours":1264
+  },
+  {
+    "device_id":"DEV-0287",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-06 21:22:25.273256",
+    "usage_hours":4297
+  },
+  {
+    "device_id":"DEV-0288",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-23 21:22:25.273259",
+    "usage_hours":298
+  },
+  {
+    "device_id":"DEV-0289",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-15 21:22:25.273262",
+    "usage_hours":1488
+  },
+  {
+    "device_id":"DEV-0290",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-02 21:22:25.273265",
+    "usage_hours":4152
+  },
+  {
+    "device_id":"DEV-0291",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-02 21:22:25.273268",
+    "usage_hours":2729
+  },
+  {
+    "device_id":"DEV-0292",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-02 21:22:25.273271",
+    "usage_hours":1239
+  },
+  {
+    "device_id":"DEV-0293",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-24 21:22:25.273274",
+    "usage_hours":2865
+  },
+  {
+    "device_id":"DEV-0294",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-27 21:22:25.273276",
+    "usage_hours":394
+  },
+  {
+    "device_id":"DEV-0295",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-10 21:22:25.273279",
+    "usage_hours":2807
+  },
+  {
+    "device_id":"DEV-0296",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-09 21:22:25.273282",
+    "usage_hours":2468
+  },
+  {
+    "device_id":"DEV-0297",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-28 21:22:25.273285",
+    "usage_hours":3464
+  },
+  {
+    "device_id":"DEV-0298",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-19 21:22:25.273288",
+    "usage_hours":3324
+  },
+  {
+    "device_id":"DEV-0299",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-26 21:22:25.273291",
+    "usage_hours":846
+  },
+  {
+    "device_id":"DEV-0300",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-10 21:22:25.273294",
+    "usage_hours":1243
+  },
+  {
+    "device_id":"DEV-0301",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-03 21:22:25.273297",
+    "usage_hours":2574
+  },
+  {
+    "device_id":"DEV-0302",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-25 21:22:25.273300",
+    "usage_hours":1663
+  },
+  {
+    "device_id":"DEV-0303",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-08 21:22:25.273304",
+    "usage_hours":4150
+  },
+  {
+    "device_id":"DEV-0304",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-15 21:22:25.273307",
+    "usage_hours":1526
+  },
+  {
+    "device_id":"DEV-0305",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-03 21:22:25.273310",
+    "usage_hours":4551
+  },
+  {
+    "device_id":"DEV-0306",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-12 21:22:25.273313",
+    "usage_hours":3764
+  },
+  {
+    "device_id":"DEV-0307",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-18 21:22:25.273316",
+    "usage_hours":2615
+  },
+  {
+    "device_id":"DEV-0308",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-06 21:22:25.273319",
+    "usage_hours":1909
+  },
+  {
+    "device_id":"DEV-0309",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-21 21:22:25.273324",
+    "usage_hours":2059
+  },
+  {
+    "device_id":"DEV-0310",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-02 21:22:25.273328",
+    "usage_hours":2056
+  },
+  {
+    "device_id":"DEV-0311",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-14 21:22:25.273331",
+    "usage_hours":1427
+  },
+  {
+    "device_id":"DEV-0312",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-28 21:22:25.273333",
+    "usage_hours":2097
+  },
+  {
+    "device_id":"DEV-0313",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-22 21:22:25.273336",
+    "usage_hours":1476
+  },
+  {
+    "device_id":"DEV-0314",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-28 21:22:25.273339",
+    "usage_hours":3781
+  },
+  {
+    "device_id":"DEV-0315",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-10 21:22:25.273343",
+    "usage_hours":2884
+  },
+  {
+    "device_id":"DEV-0316",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-14 21:22:25.273346",
+    "usage_hours":366
+  },
+  {
+    "device_id":"DEV-0317",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-28 21:22:25.273349",
+    "usage_hours":670
+  },
+  {
+    "device_id":"DEV-0318",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-08 21:22:25.273352",
+    "usage_hours":4974
+  },
+  {
+    "device_id":"DEV-0319",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-08 21:22:25.273355",
+    "usage_hours":1541
+  },
+  {
+    "device_id":"DEV-0320",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-09-27 21:22:25.273358",
+    "usage_hours":710
+  },
+  {
+    "device_id":"DEV-0321",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-18 21:22:25.273361",
+    "usage_hours":2328
+  },
+  {
+    "device_id":"DEV-0322",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-27 21:22:25.273364",
+    "usage_hours":2844
+  },
+  {
+    "device_id":"DEV-0323",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-28 21:22:25.273367",
+    "usage_hours":4484
+  },
+  {
+    "device_id":"DEV-0324",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-18 21:22:25.273370",
+    "usage_hours":3649
+  },
+  {
+    "device_id":"DEV-0325",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-20 21:22:25.273373",
+    "usage_hours":1724
+  },
+  {
+    "device_id":"DEV-0326",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-30 21:22:25.273376",
+    "usage_hours":4905
+  },
+  {
+    "device_id":"DEV-0327",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-01 21:22:25.273379",
+    "usage_hours":457
+  },
+  {
+    "device_id":"DEV-0328",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-20 21:22:25.273382",
+    "usage_hours":903
+  },
+  {
+    "device_id":"DEV-0329",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-18 21:22:25.273385",
+    "usage_hours":3613
+  },
+  {
+    "device_id":"DEV-0330",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-06 21:22:25.273388",
+    "usage_hours":2216
+  },
+  {
+    "device_id":"DEV-0331",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-07 21:22:25.273391",
+    "usage_hours":1638
+  },
+  {
+    "device_id":"DEV-0332",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-12 21:22:25.273394",
+    "usage_hours":1006
+  },
+  {
+    "device_id":"DEV-0333",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-28 21:22:25.273397",
+    "usage_hours":1158
+  },
+  {
+    "device_id":"DEV-0334",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-14 21:22:25.273400",
+    "usage_hours":2966
+  },
+  {
+    "device_id":"DEV-0335",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-12 21:22:25.273403",
+    "usage_hours":3397
+  },
+  {
+    "device_id":"DEV-0336",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-04 21:22:25.273406",
+    "usage_hours":884
+  },
+  {
+    "device_id":"DEV-0337",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-24 21:22:25.273409",
+    "usage_hours":384
+  },
+  {
+    "device_id":"DEV-0338",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-14 21:22:25.273412",
+    "usage_hours":3220
+  },
+  {
+    "device_id":"DEV-0339",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-09 21:22:25.273415",
+    "usage_hours":3359
+  },
+  {
+    "device_id":"DEV-0340",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-04 21:22:25.273418",
+    "usage_hours":2770
+  },
+  {
+    "device_id":"DEV-0341",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-06 21:22:25.273421",
+    "usage_hours":4292
+  },
+  {
+    "device_id":"DEV-0342",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-12 21:22:25.273424",
+    "usage_hours":3606
+  },
+  {
+    "device_id":"DEV-0343",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-09-29 21:22:25.273426",
+    "usage_hours":4822
+  },
+  {
+    "device_id":"DEV-0344",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-20 21:22:25.273429",
+    "usage_hours":504
+  },
+  {
+    "device_id":"DEV-0345",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-19 21:22:25.273432",
+    "usage_hours":2225
+  },
+  {
+    "device_id":"DEV-0346",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-09 21:22:25.273435",
+    "usage_hours":1519
+  },
+  {
+    "device_id":"DEV-0347",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-17 21:22:25.273438",
+    "usage_hours":538
+  },
+  {
+    "device_id":"DEV-0348",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-02 21:22:25.273441",
+    "usage_hours":2627
+  },
+  {
+    "device_id":"DEV-0349",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-04 21:22:25.273444",
+    "usage_hours":2117
+  },
+  {
+    "device_id":"DEV-0350",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-19 21:22:25.273449",
+    "usage_hours":4885
+  },
+  {
+    "device_id":"DEV-0351",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-18 21:22:25.273452",
+    "usage_hours":2552
+  },
+  {
+    "device_id":"DEV-0352",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-17 21:22:25.273455",
+    "usage_hours":2009
+  },
+  {
+    "device_id":"DEV-0353",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-26 21:22:25.273458",
+    "usage_hours":3884
+  },
+  {
+    "device_id":"DEV-0354",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-31 21:22:25.273461",
+    "usage_hours":3026
+  },
+  {
+    "device_id":"DEV-0355",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-02 21:22:25.273464",
+    "usage_hours":4989
+  },
+  {
+    "device_id":"DEV-0356",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-22 21:22:25.273467",
+    "usage_hours":1938
+  },
+  {
+    "device_id":"DEV-0357",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-30 21:22:25.273470",
+    "usage_hours":376
+  },
+  {
+    "device_id":"DEV-0358",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-18 21:22:25.273473",
+    "usage_hours":105
+  },
+  {
+    "device_id":"DEV-0359",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-10 21:22:25.273476",
+    "usage_hours":2021
+  },
+  {
+    "device_id":"DEV-0360",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-27 21:22:25.273480",
+    "usage_hours":2789
+  },
+  {
+    "device_id":"DEV-0361",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-10 21:22:25.273483",
+    "usage_hours":4129
+  },
+  {
+    "device_id":"DEV-0362",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-03 21:22:25.273486",
+    "usage_hours":575
+  },
+  {
+    "device_id":"DEV-0363",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-25 21:22:25.273489",
+    "usage_hours":449
+  },
+  {
+    "device_id":"DEV-0364",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-08 21:22:25.273492",
+    "usage_hours":117
+  },
+  {
+    "device_id":"DEV-0365",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-09-27 21:22:25.273495",
+    "usage_hours":2383
+  },
+  {
+    "device_id":"DEV-0366",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-13 21:22:25.273498",
+    "usage_hours":1805
+  },
+  {
+    "device_id":"DEV-0367",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-28 21:22:25.273501",
+    "usage_hours":2019
+  },
+  {
+    "device_id":"DEV-0368",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-20 21:22:25.273504",
+    "usage_hours":1483
+  },
+  {
+    "device_id":"DEV-0369",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-08 21:22:25.273507",
+    "usage_hours":2836
+  },
+  {
+    "device_id":"DEV-0370",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-12 21:22:25.273509",
+    "usage_hours":4306
+  },
+  {
+    "device_id":"DEV-0371",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-16 21:22:25.273512",
+    "usage_hours":4205
+  },
+  {
+    "device_id":"DEV-0372",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-03 21:22:25.273515",
+    "usage_hours":4955
+  },
+  {
+    "device_id":"DEV-0373",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-09 21:22:25.273518",
+    "usage_hours":470
+  },
+  {
+    "device_id":"DEV-0374",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-16 21:22:25.273521",
+    "usage_hours":514
+  },
+  {
+    "device_id":"DEV-0375",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-06 21:22:25.273524",
+    "usage_hours":3330
+  },
+  {
+    "device_id":"DEV-0376",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-24 21:22:25.273527",
+    "usage_hours":2182
+  },
+  {
+    "device_id":"DEV-0377",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-01 21:22:25.273530",
+    "usage_hours":3384
+  },
+  {
+    "device_id":"DEV-0378",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-04 21:22:25.273533",
+    "usage_hours":958
+  },
+  {
+    "device_id":"DEV-0379",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-09 21:22:25.273536",
+    "usage_hours":130
+  },
+  {
+    "device_id":"DEV-0380",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-09-28 21:22:25.273539",
+    "usage_hours":4923
+  },
+  {
+    "device_id":"DEV-0381",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-17 21:22:25.273542",
+    "usage_hours":4652
+  },
+  {
+    "device_id":"DEV-0382",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-28 21:22:25.273545",
+    "usage_hours":5000
+  },
+  {
+    "device_id":"DEV-0383",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-24 21:22:25.273548",
+    "usage_hours":3481
+  },
+  {
+    "device_id":"DEV-0384",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-09 21:22:25.273550",
+    "usage_hours":2860
+  },
+  {
+    "device_id":"DEV-0385",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-06 21:22:25.273553",
+    "usage_hours":1209
+  },
+  {
+    "device_id":"DEV-0386",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-21 21:22:25.273556",
+    "usage_hours":3783
+  },
+  {
+    "device_id":"DEV-0387",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-05 21:22:25.273560",
+    "usage_hours":2285
+  },
+  {
+    "device_id":"DEV-0388",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-13 21:22:25.273563",
+    "usage_hours":1235
+  },
+  {
+    "device_id":"DEV-0389",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-03 21:22:25.273565",
+    "usage_hours":4411
+  },
+  {
+    "device_id":"DEV-0390",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-20 21:22:25.273568",
+    "usage_hours":4258
+  },
+  {
+    "device_id":"DEV-0391",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-11 21:22:25.273571",
+    "usage_hours":3991
+  },
+  {
+    "device_id":"DEV-0392",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-05 21:22:25.273574",
+    "usage_hours":3849
+  },
+  {
+    "device_id":"DEV-0393",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-05 21:22:25.273577",
+    "usage_hours":1793
+  },
+  {
+    "device_id":"DEV-0394",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-16 21:22:25.273580",
+    "usage_hours":4697
+  },
+  {
+    "device_id":"DEV-0395",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-23 21:22:25.273583",
+    "usage_hours":4656
+  },
+  {
+    "device_id":"DEV-0396",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-04 21:22:25.273586",
+    "usage_hours":3631
+  },
+  {
+    "device_id":"DEV-0397",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-17 21:22:25.273590",
+    "usage_hours":3238
+  },
+  {
+    "device_id":"DEV-0398",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-19 21:22:25.273593",
+    "usage_hours":440
+  },
+  {
+    "device_id":"DEV-0399",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-14 21:22:25.273596",
+    "usage_hours":4029
+  },
+  {
+    "device_id":"DEV-0400",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-31 21:22:25.273599",
+    "usage_hours":4181
+  },
+  {
+    "device_id":"DEV-0401",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-19 21:22:25.273602",
+    "usage_hours":2794
+  },
+  {
+    "device_id":"DEV-0402",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-10 21:22:25.273605",
+    "usage_hours":2931
+  },
+  {
+    "device_id":"DEV-0403",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-11 21:22:25.273609",
+    "usage_hours":133
+  },
+  {
+    "device_id":"DEV-0404",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-08 21:22:25.273612",
+    "usage_hours":1572
+  },
+  {
+    "device_id":"DEV-0405",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-20 21:22:25.273615",
+    "usage_hours":1798
+  },
+  {
+    "device_id":"DEV-0406",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-07 21:22:25.273618",
+    "usage_hours":3815
+  },
+  {
+    "device_id":"DEV-0407",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-05 21:22:25.273621",
+    "usage_hours":1994
+  },
+  {
+    "device_id":"DEV-0408",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-05 21:22:25.273624",
+    "usage_hours":3123
+  },
+  {
+    "device_id":"DEV-0409",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-05 21:22:25.273627",
+    "usage_hours":2116
+  },
+  {
+    "device_id":"DEV-0410",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-26 21:22:25.273630",
+    "usage_hours":3637
+  },
+  {
+    "device_id":"DEV-0411",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-26 21:22:25.273633",
+    "usage_hours":4254
+  },
+  {
+    "device_id":"DEV-0412",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-08 21:22:25.273636",
+    "usage_hours":3035
+  },
+  {
+    "device_id":"DEV-0413",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-05 21:22:25.273639",
+    "usage_hours":3367
+  },
+  {
+    "device_id":"DEV-0414",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-06 21:22:25.273642",
+    "usage_hours":4307
+  },
+  {
+    "device_id":"DEV-0415",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-14 21:22:25.273645",
+    "usage_hours":3165
+  },
+  {
+    "device_id":"DEV-0416",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-02 21:22:25.273648",
+    "usage_hours":1344
+  },
+  {
+    "device_id":"DEV-0417",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-17 21:22:25.273651",
+    "usage_hours":4655
+  },
+  {
+    "device_id":"DEV-0418",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-29 21:22:25.273654",
+    "usage_hours":1661
+  },
+  {
+    "device_id":"DEV-0419",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-30 21:22:25.273656",
+    "usage_hours":596
+  },
+  {
+    "device_id":"DEV-0420",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-07 21:22:25.273659",
+    "usage_hours":3208
+  },
+  {
+    "device_id":"DEV-0421",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-19 21:22:25.273662",
+    "usage_hours":336
+  },
+  {
+    "device_id":"DEV-0422",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-29 21:22:25.273665",
+    "usage_hours":3175
+  },
+  {
+    "device_id":"DEV-0423",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-24 21:22:25.273668",
+    "usage_hours":3933
+  },
+  {
+    "device_id":"DEV-0424",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-25 21:22:25.273671",
+    "usage_hours":2443
+  },
+  {
+    "device_id":"DEV-0425",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-08 21:22:25.273674",
+    "usage_hours":697
+  },
+  {
+    "device_id":"DEV-0426",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-31 21:22:25.273677",
+    "usage_hours":2629
+  },
+  {
+    "device_id":"DEV-0427",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-05 21:22:25.273680",
+    "usage_hours":3735
+  },
+  {
+    "device_id":"DEV-0428",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-06 21:22:25.273684",
+    "usage_hours":1136
+  },
+  {
+    "device_id":"DEV-0429",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-23 21:22:25.273687",
+    "usage_hours":3053
+  },
+  {
+    "device_id":"DEV-0430",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-23 21:22:25.273690",
+    "usage_hours":1220
+  },
+  {
+    "device_id":"DEV-0431",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-09 21:22:25.273694",
+    "usage_hours":549
+  },
+  {
+    "device_id":"DEV-0432",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-13 21:22:25.273697",
+    "usage_hours":1385
+  },
+  {
+    "device_id":"DEV-0433",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-31 21:22:25.273701",
+    "usage_hours":3901
+  },
+  {
+    "device_id":"DEV-0434",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-04 21:22:25.273704",
+    "usage_hours":434
+  },
+  {
+    "device_id":"DEV-0435",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-03 21:22:25.273707",
+    "usage_hours":3380
+  },
+  {
+    "device_id":"DEV-0436",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-09 21:22:25.273710",
+    "usage_hours":4469
+  },
+  {
+    "device_id":"DEV-0437",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-28 21:22:25.273713",
+    "usage_hours":454
+  },
+  {
+    "device_id":"DEV-0438",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-01 21:22:25.273715",
+    "usage_hours":4241
+  },
+  {
+    "device_id":"DEV-0439",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-24 21:22:25.273719",
+    "usage_hours":820
+  },
+  {
+    "device_id":"DEV-0440",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-01 21:22:25.273721",
+    "usage_hours":3010
+  },
+  {
+    "device_id":"DEV-0441",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-27 21:22:25.273724",
+    "usage_hours":1438
+  },
+  {
+    "device_id":"DEV-0442",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-02 21:22:25.273727",
+    "usage_hours":3287
+  },
+  {
+    "device_id":"DEV-0443",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-22 21:22:25.273730",
+    "usage_hours":4160
+  },
+  {
+    "device_id":"DEV-0444",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-13 21:22:25.273735",
+    "usage_hours":241
+  },
+  {
+    "device_id":"DEV-0445",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-24 21:22:25.273738",
+    "usage_hours":2456
+  },
+  {
+    "device_id":"DEV-0446",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-24 21:22:25.273741",
+    "usage_hours":1958
+  },
+  {
+    "device_id":"DEV-0447",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-04 21:22:25.273745",
+    "usage_hours":128
+  },
+  {
+    "device_id":"DEV-0448",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-04 21:22:25.273748",
+    "usage_hours":2473
+  },
+  {
+    "device_id":"DEV-0449",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-19 21:22:25.273751",
+    "usage_hours":4736
+  },
+  {
+    "device_id":"DEV-0450",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-25 21:22:25.273754",
+    "usage_hours":261
+  },
+  {
+    "device_id":"DEV-0451",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-23 21:22:25.273756",
+    "usage_hours":209
+  },
+  {
+    "device_id":"DEV-0452",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-03 21:22:25.273760",
+    "usage_hours":1555
+  },
+  {
+    "device_id":"DEV-0453",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-08 21:22:25.273763",
+    "usage_hours":4988
+  },
+  {
+    "device_id":"DEV-0454",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-10 21:22:25.273766",
+    "usage_hours":3856
+  },
+  {
+    "device_id":"DEV-0455",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-12 21:22:25.273769",
+    "usage_hours":4774
+  },
+  {
+    "device_id":"DEV-0456",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-05 21:22:25.273772",
+    "usage_hours":2462
+  },
+  {
+    "device_id":"DEV-0457",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-05 21:22:25.273777",
+    "usage_hours":2141
+  },
+  {
+    "device_id":"DEV-0458",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-01 21:22:25.273780",
+    "usage_hours":705
+  },
+  {
+    "device_id":"DEV-0459",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-14 21:22:25.273783",
+    "usage_hours":1962
+  },
+  {
+    "device_id":"DEV-0460",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-28 21:22:25.273786",
+    "usage_hours":2962
+  },
+  {
+    "device_id":"DEV-0461",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-21 21:22:25.273789",
+    "usage_hours":3931
+  },
+  {
+    "device_id":"DEV-0462",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-17 21:22:25.273792",
+    "usage_hours":4758
+  },
+  {
+    "device_id":"DEV-0463",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-13 21:22:25.273795",
+    "usage_hours":4186
+  },
+  {
+    "device_id":"DEV-0464",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-08 21:22:25.273798",
+    "usage_hours":2345
+  },
+  {
+    "device_id":"DEV-0465",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-16 21:22:25.273802",
+    "usage_hours":2275
+  },
+  {
+    "device_id":"DEV-0466",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-01 21:22:25.273805",
+    "usage_hours":3292
+  },
+  {
+    "device_id":"DEV-0467",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-17 21:22:25.273808",
+    "usage_hours":3839
+  },
+  {
+    "device_id":"DEV-0468",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-15 21:22:25.273811",
+    "usage_hours":231
+  },
+  {
+    "device_id":"DEV-0469",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-03 21:22:25.273814",
+    "usage_hours":2643
+  },
+  {
+    "device_id":"DEV-0470",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-26 21:22:25.273817",
+    "usage_hours":2114
+  },
+  {
+    "device_id":"DEV-0471",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-10 21:22:25.273820",
+    "usage_hours":3049
+  },
+  {
+    "device_id":"DEV-0472",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-28 21:22:25.273822",
+    "usage_hours":365
+  },
+  {
+    "device_id":"DEV-0473",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-23 21:22:25.273825",
+    "usage_hours":1261
+  },
+  {
+    "device_id":"DEV-0474",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-20 21:22:25.273828",
+    "usage_hours":3635
+  },
+  {
+    "device_id":"DEV-0475",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-09-29 21:22:25.273831",
+    "usage_hours":1200
+  },
+  {
+    "device_id":"DEV-0476",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-23 21:22:25.273834",
+    "usage_hours":3192
+  },
+  {
+    "device_id":"DEV-0477",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-28 21:22:25.273837",
+    "usage_hours":2169
+  },
+  {
+    "device_id":"DEV-0478",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-23 21:22:25.273840",
+    "usage_hours":448
+  },
+  {
+    "device_id":"DEV-0479",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-18 21:22:25.273843",
+    "usage_hours":1458
+  },
+  {
+    "device_id":"DEV-0480",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-20 21:22:25.273847",
+    "usage_hours":3048
+  },
+  {
+    "device_id":"DEV-0481",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-06 21:22:25.273851",
+    "usage_hours":906
+  },
+  {
+    "device_id":"DEV-0482",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-21 21:22:25.273854",
+    "usage_hours":3554
+  },
+  {
+    "device_id":"DEV-0483",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-25 21:22:25.273857",
+    "usage_hours":2366
+  },
+  {
+    "device_id":"DEV-0484",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-05 21:22:25.273860",
+    "usage_hours":1591
+  },
+  {
+    "device_id":"DEV-0485",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-11 21:22:25.273863",
+    "usage_hours":4314
+  },
+  {
+    "device_id":"DEV-0486",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-28 21:22:25.273865",
+    "usage_hours":1190
+  },
+  {
+    "device_id":"DEV-0487",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-19 21:22:25.273868",
+    "usage_hours":4332
+  },
+  {
+    "device_id":"DEV-0488",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-04 21:22:25.273871",
+    "usage_hours":1863
+  },
+  {
+    "device_id":"DEV-0489",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-19 21:22:25.273874",
+    "usage_hours":3249
+  },
+  {
+    "device_id":"DEV-0490",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-07 21:22:25.273877",
+    "usage_hours":2552
+  },
+  {
+    "device_id":"DEV-0491",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-18 21:22:25.273880",
+    "usage_hours":1252
+  },
+  {
+    "device_id":"DEV-0492",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-04 21:22:25.273883",
+    "usage_hours":3710
+  },
+  {
+    "device_id":"DEV-0493",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-18 21:22:25.273886",
+    "usage_hours":4374
+  },
+  {
+    "device_id":"DEV-0494",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-07 21:22:25.274042",
+    "usage_hours":1989
+  },
+  {
+    "device_id":"DEV-0495",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-15 21:22:25.274046",
+    "usage_hours":3569
+  },
+  {
+    "device_id":"DEV-0496",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-11 21:22:25.274049",
+    "usage_hours":4896
+  },
+  {
+    "device_id":"DEV-0497",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-22 21:22:25.274052",
+    "usage_hours":3616
+  },
+  {
+    "device_id":"DEV-0498",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-11 21:22:25.274054",
+    "usage_hours":2901
+  },
+  {
+    "device_id":"DEV-0499",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-29 21:22:25.274057",
+    "usage_hours":1732
+  },
+  {
+    "device_id":"DEV-0500",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-27 21:22:25.274060",
+    "usage_hours":1479
+  },
+  {
+    "device_id":"DEV-0501",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-10 21:22:25.274063",
+    "usage_hours":1047
+  },
+  {
+    "device_id":"DEV-0502",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-01 21:22:25.274066",
+    "usage_hours":4328
+  },
+  {
+    "device_id":"DEV-0503",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-18 21:22:25.274069",
+    "usage_hours":691
+  },
+  {
+    "device_id":"DEV-0504",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-19 21:22:25.274072",
+    "usage_hours":2789
+  },
+  {
+    "device_id":"DEV-0505",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-27 21:22:25.274075",
+    "usage_hours":3604
+  },
+  {
+    "device_id":"DEV-0506",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-07 21:22:25.274085",
+    "usage_hours":999
+  },
+  {
+    "device_id":"DEV-0507",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-31 21:22:25.274089",
+    "usage_hours":799
+  },
+  {
+    "device_id":"DEV-0508",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-19 21:22:25.274092",
+    "usage_hours":171
+  },
+  {
+    "device_id":"DEV-0509",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-18 21:22:25.274095",
+    "usage_hours":3819
+  },
+  {
+    "device_id":"DEV-0510",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-31 21:22:25.274098",
+    "usage_hours":3460
+  },
+  {
+    "device_id":"DEV-0511",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-19 21:22:25.274101",
+    "usage_hours":2303
+  },
+  {
+    "device_id":"DEV-0512",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-11 21:22:25.274104",
+    "usage_hours":2776
+  },
+  {
+    "device_id":"DEV-0513",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-20 21:22:25.274108",
+    "usage_hours":589
+  },
+  {
+    "device_id":"DEV-0514",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-23 21:22:25.274111",
+    "usage_hours":292
+  },
+  {
+    "device_id":"DEV-0515",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-03 21:22:25.274114",
+    "usage_hours":3852
+  },
+  {
+    "device_id":"DEV-0516",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-09-26 21:22:25.274116",
+    "usage_hours":142
+  },
+  {
+    "device_id":"DEV-0517",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-11 21:22:25.274119",
+    "usage_hours":2297
+  },
+  {
+    "device_id":"DEV-0518",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-09-30 21:22:25.274123",
+    "usage_hours":3326
+  },
+  {
+    "device_id":"DEV-0519",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-12 21:22:25.274125",
+    "usage_hours":2938
+  },
+  {
+    "device_id":"DEV-0520",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-16 21:22:25.274129",
+    "usage_hours":4466
+  },
+  {
+    "device_id":"DEV-0521",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-22 21:22:25.274132",
+    "usage_hours":2271
+  },
+  {
+    "device_id":"DEV-0522",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-07 21:22:25.274135",
+    "usage_hours":1649
+  },
+  {
+    "device_id":"DEV-0523",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-28 21:22:25.274138",
+    "usage_hours":3955
+  },
+  {
+    "device_id":"DEV-0524",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-15 21:22:25.274141",
+    "usage_hours":1822
+  },
+  {
+    "device_id":"DEV-0525",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-26 21:22:25.274144",
+    "usage_hours":2763
+  },
+  {
+    "device_id":"DEV-0526",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-27 21:22:25.274147",
+    "usage_hours":988
+  },
+  {
+    "device_id":"DEV-0527",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-14 21:22:25.274150",
+    "usage_hours":1334
+  },
+  {
+    "device_id":"DEV-0528",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-28 21:22:25.274153",
+    "usage_hours":5000
+  },
+  {
+    "device_id":"DEV-0529",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-05 21:22:25.274156",
+    "usage_hours":4498
+  },
+  {
+    "device_id":"DEV-0530",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-17 21:22:25.274159",
+    "usage_hours":3384
+  },
+  {
+    "device_id":"DEV-0531",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-14 21:22:25.274162",
+    "usage_hours":1194
+  },
+  {
+    "device_id":"DEV-0532",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-18 21:22:25.274165",
+    "usage_hours":3223
+  },
+  {
+    "device_id":"DEV-0533",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-15 21:22:25.274168",
+    "usage_hours":658
+  },
+  {
+    "device_id":"DEV-0534",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-09-27 21:22:25.274171",
+    "usage_hours":2123
+  },
+  {
+    "device_id":"DEV-0535",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-04 21:22:25.274174",
+    "usage_hours":3453
+  },
+  {
+    "device_id":"DEV-0536",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-23 21:22:25.274177",
+    "usage_hours":1070
+  },
+  {
+    "device_id":"DEV-0537",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-25 21:22:25.274180",
+    "usage_hours":3959
+  },
+  {
+    "device_id":"DEV-0538",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-08 21:22:25.274183",
+    "usage_hours":2224
+  },
+  {
+    "device_id":"DEV-0539",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-07 21:22:25.274186",
+    "usage_hours":4390
+  },
+  {
+    "device_id":"DEV-0540",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-14 21:22:25.274189",
+    "usage_hours":3349
+  },
+  {
+    "device_id":"DEV-0541",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-05 21:22:25.274192",
+    "usage_hours":3057
+  },
+  {
+    "device_id":"DEV-0542",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-17 21:22:25.274195",
+    "usage_hours":1314
+  },
+  {
+    "device_id":"DEV-0543",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-19 21:22:25.274198",
+    "usage_hours":3385
+  },
+  {
+    "device_id":"DEV-0544",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-25 21:22:25.274201",
+    "usage_hours":4372
+  },
+  {
+    "device_id":"DEV-0545",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-31 21:22:25.274204",
+    "usage_hours":1404
+  },
+  {
+    "device_id":"DEV-0546",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-10 21:22:25.274207",
+    "usage_hours":1673
+  },
+  {
+    "device_id":"DEV-0547",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-29 21:22:25.274210",
+    "usage_hours":1982
+  },
+  {
+    "device_id":"DEV-0548",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-15 21:22:25.274213",
+    "usage_hours":480
+  },
+  {
+    "device_id":"DEV-0549",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-11 21:22:25.274216",
+    "usage_hours":358
+  },
+  {
+    "device_id":"DEV-0550",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-16 21:22:25.274219",
+    "usage_hours":4664
+  },
+  {
+    "device_id":"DEV-0551",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-17 21:22:25.274222",
+    "usage_hours":1687
+  },
+  {
+    "device_id":"DEV-0552",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-19 21:22:25.274225",
+    "usage_hours":3051
+  },
+  {
+    "device_id":"DEV-0553",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-28 21:22:25.274228",
+    "usage_hours":2579
+  },
+  {
+    "device_id":"DEV-0554",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-07 21:22:25.274231",
+    "usage_hours":4339
+  },
+  {
+    "device_id":"DEV-0555",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-03 21:22:25.274234",
+    "usage_hours":837
+  },
+  {
+    "device_id":"DEV-0556",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-18 21:22:25.274237",
+    "usage_hours":4380
+  },
+  {
+    "device_id":"DEV-0557",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-02 21:22:25.274240",
+    "usage_hours":1223
+  },
+  {
+    "device_id":"DEV-0558",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-25 21:22:25.274245",
+    "usage_hours":497
+  },
+  {
+    "device_id":"DEV-0559",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-09 21:22:25.274248",
+    "usage_hours":1572
+  },
+  {
+    "device_id":"DEV-0560",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-13 21:22:25.274250",
+    "usage_hours":3716
+  },
+  {
+    "device_id":"DEV-0561",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-06 21:22:25.274253",
+    "usage_hours":4129
+  },
+  {
+    "device_id":"DEV-0562",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-04 21:22:25.274256",
+    "usage_hours":1200
+  },
+  {
+    "device_id":"DEV-0563",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-27 21:22:25.274259",
+    "usage_hours":3477
+  },
+  {
+    "device_id":"DEV-0564",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-07 21:22:25.274262",
+    "usage_hours":3363
+  },
+  {
+    "device_id":"DEV-0565",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-30 21:22:25.274265",
+    "usage_hours":162
+  },
+  {
+    "device_id":"DEV-0566",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-04 21:22:25.274268",
+    "usage_hours":658
+  },
+  {
+    "device_id":"DEV-0567",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-17 21:22:25.274271",
+    "usage_hours":815
+  },
+  {
+    "device_id":"DEV-0568",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-15 21:22:25.274274",
+    "usage_hours":4036
+  },
+  {
+    "device_id":"DEV-0569",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-30 21:22:25.274277",
+    "usage_hours":581
+  },
+  {
+    "device_id":"DEV-0570",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-17 21:22:25.274280",
+    "usage_hours":4412
+  },
+  {
+    "device_id":"DEV-0571",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-07 21:22:25.274283",
+    "usage_hours":2877
+  },
+  {
+    "device_id":"DEV-0572",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-04 21:22:25.274286",
+    "usage_hours":1477
+  },
+  {
+    "device_id":"DEV-0573",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-28 21:22:25.274289",
+    "usage_hours":3739
+  },
+  {
+    "device_id":"DEV-0574",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-03 21:22:25.274292",
+    "usage_hours":3078
+  },
+  {
+    "device_id":"DEV-0575",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-19 21:22:25.274295",
+    "usage_hours":1556
+  },
+  {
+    "device_id":"DEV-0576",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-07 21:22:25.274298",
+    "usage_hours":1249
+  },
+  {
+    "device_id":"DEV-0577",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-09-26 21:22:25.274301",
+    "usage_hours":3339
+  },
+  {
+    "device_id":"DEV-0578",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-20 21:22:25.274304",
+    "usage_hours":3380
+  },
+  {
+    "device_id":"DEV-0579",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-20 21:22:25.274307",
+    "usage_hours":2490
+  },
+  {
+    "device_id":"DEV-0580",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-30 21:22:25.274309",
+    "usage_hours":4547
+  },
+  {
+    "device_id":"DEV-0581",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-17 21:22:25.274312",
+    "usage_hours":4922
+  },
+  {
+    "device_id":"DEV-0582",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-24 21:22:25.274315",
+    "usage_hours":4130
+  },
+  {
+    "device_id":"DEV-0583",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-01 21:22:25.274318",
+    "usage_hours":3363
+  },
+  {
+    "device_id":"DEV-0584",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-12 21:22:25.274322",
+    "usage_hours":3633
+  },
+  {
+    "device_id":"DEV-0585",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-08 21:22:25.274326",
+    "usage_hours":4831
+  },
+  {
+    "device_id":"DEV-0586",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-05 21:22:25.274329",
+    "usage_hours":2162
+  },
+  {
+    "device_id":"DEV-0587",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-10 21:22:25.274332",
+    "usage_hours":1224
+  },
+  {
+    "device_id":"DEV-0588",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-30 21:22:25.274335",
+    "usage_hours":2618
+  },
+  {
+    "device_id":"DEV-0589",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-18 21:22:25.274338",
+    "usage_hours":4770
+  },
+  {
+    "device_id":"DEV-0590",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-11 21:22:25.274341",
+    "usage_hours":4488
+  },
+  {
+    "device_id":"DEV-0591",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-17 21:22:25.274344",
+    "usage_hours":3339
+  },
+  {
+    "device_id":"DEV-0592",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-10 21:22:25.274347",
+    "usage_hours":385
+  },
+  {
+    "device_id":"DEV-0593",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-22 21:22:25.274353",
+    "usage_hours":3896
+  },
+  {
+    "device_id":"DEV-0594",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-07 21:22:25.274356",
+    "usage_hours":3037
+  },
+  {
+    "device_id":"DEV-0595",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-13 21:22:25.274359",
+    "usage_hours":3354
+  },
+  {
+    "device_id":"DEV-0596",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-06 21:22:25.274362",
+    "usage_hours":939
+  },
+  {
+    "device_id":"DEV-0597",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-24 21:22:25.274364",
+    "usage_hours":4652
+  },
+  {
+    "device_id":"DEV-0598",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-07 21:22:25.274367",
+    "usage_hours":4878
+  },
+  {
+    "device_id":"DEV-0599",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-06 21:22:25.274370",
+    "usage_hours":4976
+  },
+  {
+    "device_id":"DEV-0600",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-16 21:22:25.274373",
+    "usage_hours":3392
+  },
+  {
+    "device_id":"DEV-0601",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-20 21:22:25.274376",
+    "usage_hours":1205
+  },
+  {
+    "device_id":"DEV-0602",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-03 21:22:25.274379",
+    "usage_hours":720
+  },
+  {
+    "device_id":"DEV-0603",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-27 21:22:25.274382",
+    "usage_hours":4793
+  },
+  {
+    "device_id":"DEV-0604",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-11 21:22:25.274385",
+    "usage_hours":1490
+  },
+  {
+    "device_id":"DEV-0605",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-25 21:22:25.274388",
+    "usage_hours":1204
+  },
+  {
+    "device_id":"DEV-0606",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-28 21:22:25.274391",
+    "usage_hours":4974
+  },
+  {
+    "device_id":"DEV-0607",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-21 21:22:25.274394",
+    "usage_hours":1366
+  },
+  {
+    "device_id":"DEV-0608",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-31 21:22:25.274397",
+    "usage_hours":3944
+  },
+  {
+    "device_id":"DEV-0609",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-14 21:22:25.274400",
+    "usage_hours":4440
+  },
+  {
+    "device_id":"DEV-0610",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-22 21:22:25.274403",
+    "usage_hours":1094
+  },
+  {
+    "device_id":"DEV-0611",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-06 21:22:25.274406",
+    "usage_hours":4354
+  },
+  {
+    "device_id":"DEV-0612",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-16 21:22:25.274409",
+    "usage_hours":4353
+  },
+  {
+    "device_id":"DEV-0613",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-29 21:22:25.274412",
+    "usage_hours":3857
+  },
+  {
+    "device_id":"DEV-0614",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-25 21:22:25.274415",
+    "usage_hours":2487
+  },
+  {
+    "device_id":"DEV-0615",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-26 21:22:25.274418",
+    "usage_hours":609
+  },
+  {
+    "device_id":"DEV-0616",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-15 21:22:25.274421",
+    "usage_hours":517
+  },
+  {
+    "device_id":"DEV-0617",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-15 21:22:25.274424",
+    "usage_hours":4422
+  },
+  {
+    "device_id":"DEV-0618",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-29 21:22:25.274427",
+    "usage_hours":4337
+  },
+  {
+    "device_id":"DEV-0619",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-05 21:22:25.274430",
+    "usage_hours":4634
+  },
+  {
+    "device_id":"DEV-0620",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-12 21:22:25.274433",
+    "usage_hours":410
+  },
+  {
+    "device_id":"DEV-0621",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-05 21:22:25.274436",
+    "usage_hours":3664
+  },
+  {
+    "device_id":"DEV-0622",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-21 21:22:25.274439",
+    "usage_hours":1749
+  },
+  {
+    "device_id":"DEV-0623",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-26 21:22:25.274442",
+    "usage_hours":2938
+  },
+  {
+    "device_id":"DEV-0624",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-28 21:22:25.274445",
+    "usage_hours":662
+  },
+  {
+    "device_id":"DEV-0625",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-09 21:22:25.274448",
+    "usage_hours":3645
+  },
+  {
+    "device_id":"DEV-0626",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-15 21:22:25.274451",
+    "usage_hours":2292
+  },
+  {
+    "device_id":"DEV-0627",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-09 21:22:25.274454",
+    "usage_hours":3260
+  },
+  {
+    "device_id":"DEV-0628",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-21 21:22:25.274457",
+    "usage_hours":4533
+  },
+  {
+    "device_id":"DEV-0629",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-05 21:22:25.274460",
+    "usage_hours":4567
+  },
+  {
+    "device_id":"DEV-0630",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-09 21:22:25.274463",
+    "usage_hours":3690
+  },
+  {
+    "device_id":"DEV-0631",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-30 21:22:25.274466",
+    "usage_hours":2199
+  },
+  {
+    "device_id":"DEV-0632",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-14 21:22:25.274470",
+    "usage_hours":2566
+  },
+  {
+    "device_id":"DEV-0633",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-27 21:22:25.274473",
+    "usage_hours":142
+  },
+  {
+    "device_id":"DEV-0634",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-24 21:22:25.274475",
+    "usage_hours":1307
+  },
+  {
+    "device_id":"DEV-0635",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-24 21:22:25.274478",
+    "usage_hours":4569
+  },
+  {
+    "device_id":"DEV-0636",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-17 21:22:25.274482",
+    "usage_hours":4749
+  },
+  {
+    "device_id":"DEV-0637",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-25 21:22:25.274485",
+    "usage_hours":2355
+  },
+  {
+    "device_id":"DEV-0638",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-12 21:22:25.274488",
+    "usage_hours":291
+  },
+  {
+    "device_id":"DEV-0639",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-25 21:22:25.274491",
+    "usage_hours":4526
+  },
+  {
+    "device_id":"DEV-0640",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-12 21:22:25.274494",
+    "usage_hours":2932
+  },
+  {
+    "device_id":"DEV-0641",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-30 21:22:25.274497",
+    "usage_hours":3053
+  },
+  {
+    "device_id":"DEV-0642",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-06 21:22:25.274500",
+    "usage_hours":2674
+  },
+  {
+    "device_id":"DEV-0643",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-09 21:22:25.274503",
+    "usage_hours":3157
+  },
+  {
+    "device_id":"DEV-0644",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-16 21:22:25.274506",
+    "usage_hours":1569
+  },
+  {
+    "device_id":"DEV-0645",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-08 21:22:25.274509",
+    "usage_hours":305
+  },
+  {
+    "device_id":"DEV-0646",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-21 21:22:25.274512",
+    "usage_hours":515
+  },
+  {
+    "device_id":"DEV-0647",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-15 21:22:25.274515",
+    "usage_hours":4892
+  },
+  {
+    "device_id":"DEV-0648",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-06 21:22:25.274520",
+    "usage_hours":4946
+  },
+  {
+    "device_id":"DEV-0649",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-15 21:22:25.274523",
+    "usage_hours":1614
+  },
+  {
+    "device_id":"DEV-0650",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-17 21:22:25.274526",
+    "usage_hours":3662
+  },
+  {
+    "device_id":"DEV-0651",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-25 21:22:25.274529",
+    "usage_hours":1683
+  },
+  {
+    "device_id":"DEV-0652",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-05 21:22:25.274532",
+    "usage_hours":4497
+  },
+  {
+    "device_id":"DEV-0653",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-09 21:22:25.274535",
+    "usage_hours":653
+  },
+  {
+    "device_id":"DEV-0654",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-04 21:22:25.274538",
+    "usage_hours":1587
+  },
+  {
+    "device_id":"DEV-0655",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-21 21:22:25.274541",
+    "usage_hours":2058
+  },
+  {
+    "device_id":"DEV-0656",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-05 21:22:25.274544",
+    "usage_hours":1934
+  },
+  {
+    "device_id":"DEV-0657",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-05 21:22:25.274547",
+    "usage_hours":2736
+  },
+  {
+    "device_id":"DEV-0658",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-10 21:22:25.274550",
+    "usage_hours":2548
+  },
+  {
+    "device_id":"DEV-0659",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-06 21:22:25.274553",
+    "usage_hours":2507
+  },
+  {
+    "device_id":"DEV-0660",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-02 21:22:25.274556",
+    "usage_hours":4386
+  },
+  {
+    "device_id":"DEV-0661",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-09 21:22:25.274559",
+    "usage_hours":139
+  },
+  {
+    "device_id":"DEV-0662",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-11 21:22:25.274563",
+    "usage_hours":2503
+  },
+  {
+    "device_id":"DEV-0663",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-17 21:22:25.274566",
+    "usage_hours":997
+  },
+  {
+    "device_id":"DEV-0664",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-17 21:22:25.274569",
+    "usage_hours":2290
+  },
+  {
+    "device_id":"DEV-0665",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-05 21:22:25.274572",
+    "usage_hours":1249
+  },
+  {
+    "device_id":"DEV-0666",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-13 21:22:25.274575",
+    "usage_hours":1184
+  },
+  {
+    "device_id":"DEV-0667",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-04 21:22:25.274579",
+    "usage_hours":4719
+  },
+  {
+    "device_id":"DEV-0668",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-01 21:22:25.274582",
+    "usage_hours":1181
+  },
+  {
+    "device_id":"DEV-0669",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-21 21:22:25.274585",
+    "usage_hours":1067
+  },
+  {
+    "device_id":"DEV-0670",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-08 21:22:25.274587",
+    "usage_hours":3153
+  },
+  {
+    "device_id":"DEV-0671",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-30 21:22:25.274591",
+    "usage_hours":1661
+  },
+  {
+    "device_id":"DEV-0672",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-12 21:22:25.274594",
+    "usage_hours":3382
+  },
+  {
+    "device_id":"DEV-0673",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-07 21:22:25.274597",
+    "usage_hours":1106
+  },
+  {
+    "device_id":"DEV-0674",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-23 21:22:25.274600",
+    "usage_hours":4370
+  },
+  {
+    "device_id":"DEV-0675",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-05 21:22:25.274603",
+    "usage_hours":4484
+  },
+  {
+    "device_id":"DEV-0676",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-03 21:22:25.274606",
+    "usage_hours":3104
+  },
+  {
+    "device_id":"DEV-0677",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-12 21:22:25.274609",
+    "usage_hours":1457
+  },
+  {
+    "device_id":"DEV-0678",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-15 21:22:25.274612",
+    "usage_hours":4819
+  },
+  {
+    "device_id":"DEV-0679",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-10 21:22:25.274615",
+    "usage_hours":941
+  },
+  {
+    "device_id":"DEV-0680",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-22 21:22:25.274618",
+    "usage_hours":1820
+  },
+  {
+    "device_id":"DEV-0681",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-14 21:22:25.274621",
+    "usage_hours":1794
+  },
+  {
+    "device_id":"DEV-0682",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-11 21:22:25.274624",
+    "usage_hours":1376
+  },
+  {
+    "device_id":"DEV-0683",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-25 21:22:25.274628",
+    "usage_hours":3097
+  },
+  {
+    "device_id":"DEV-0684",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-09-28 21:22:25.274630",
+    "usage_hours":3003
+  },
+  {
+    "device_id":"DEV-0685",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-04 21:22:25.274633",
+    "usage_hours":4513
+  },
+  {
+    "device_id":"DEV-0686",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-28 21:22:25.274638",
+    "usage_hours":2181
+  },
+  {
+    "device_id":"DEV-0687",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-02 21:22:25.274641",
+    "usage_hours":1293
+  },
+  {
+    "device_id":"DEV-0688",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-10 21:22:25.274644",
+    "usage_hours":3597
+  },
+  {
+    "device_id":"DEV-0689",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-18 21:22:25.274646",
+    "usage_hours":1306
+  },
+  {
+    "device_id":"DEV-0690",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-25 21:22:25.274649",
+    "usage_hours":814
+  },
+  {
+    "device_id":"DEV-0691",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-16 21:22:25.274652",
+    "usage_hours":3935
+  },
+  {
+    "device_id":"DEV-0692",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-09-28 21:22:25.274655",
+    "usage_hours":481
+  },
+  {
+    "device_id":"DEV-0693",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-12 21:22:25.274658",
+    "usage_hours":4657
+  },
+  {
+    "device_id":"DEV-0694",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-13 21:22:25.274661",
+    "usage_hours":1500
+  },
+  {
+    "device_id":"DEV-0695",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-08 21:22:25.274664",
+    "usage_hours":4435
+  },
+  {
+    "device_id":"DEV-0696",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-04 21:22:25.274667",
+    "usage_hours":963
+  },
+  {
+    "device_id":"DEV-0697",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-04 21:22:25.274670",
+    "usage_hours":2710
+  },
+  {
+    "device_id":"DEV-0698",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-05 21:22:25.274673",
+    "usage_hours":2216
+  },
+  {
+    "device_id":"DEV-0699",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-07 21:22:25.274676",
+    "usage_hours":2056
+  },
+  {
+    "device_id":"DEV-0700",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-31 21:22:25.274679",
+    "usage_hours":2149
+  },
+  {
+    "device_id":"DEV-0701",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-20 21:22:25.274682",
+    "usage_hours":1527
+  },
+  {
+    "device_id":"DEV-0702",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-15 21:22:25.274685",
+    "usage_hours":4477
+  },
+  {
+    "device_id":"DEV-0703",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-23 21:22:25.274688",
+    "usage_hours":2462
+  },
+  {
+    "device_id":"DEV-0704",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-23 21:22:25.274691",
+    "usage_hours":3815
+  },
+  {
+    "device_id":"DEV-0705",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-29 21:22:25.274694",
+    "usage_hours":2206
+  },
+  {
+    "device_id":"DEV-0706",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-12 21:22:25.274698",
+    "usage_hours":1932
+  },
+  {
+    "device_id":"DEV-0707",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-16 21:22:25.274701",
+    "usage_hours":3287
+  },
+  {
+    "device_id":"DEV-0708",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-17 21:22:25.274704",
+    "usage_hours":324
+  },
+  {
+    "device_id":"DEV-0709",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-14 21:22:25.274707",
+    "usage_hours":4588
+  },
+  {
+    "device_id":"DEV-0710",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-28 21:22:25.274710",
+    "usage_hours":1696
+  },
+  {
+    "device_id":"DEV-0711",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-15 21:22:25.274713",
+    "usage_hours":3735
+  },
+  {
+    "device_id":"DEV-0712",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-19 21:22:25.274716",
+    "usage_hours":582
+  },
+  {
+    "device_id":"DEV-0713",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-22 21:22:25.274719",
+    "usage_hours":1929
+  },
+  {
+    "device_id":"DEV-0714",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-08 21:22:25.274722",
+    "usage_hours":2591
+  },
+  {
+    "device_id":"DEV-0715",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-01 21:22:25.274725",
+    "usage_hours":1857
+  },
+  {
+    "device_id":"DEV-0716",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-19 21:22:25.274728",
+    "usage_hours":2125
+  },
+  {
+    "device_id":"DEV-0717",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-25 21:22:25.274731",
+    "usage_hours":1946
+  },
+  {
+    "device_id":"DEV-0718",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-09-26 21:22:25.274734",
+    "usage_hours":1170
+  },
+  {
+    "device_id":"DEV-0719",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-15 21:22:25.274737",
+    "usage_hours":971
+  },
+  {
+    "device_id":"DEV-0720",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-09-28 21:22:25.274740",
+    "usage_hours":144
+  },
+  {
+    "device_id":"DEV-0721",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-15 21:22:25.274743",
+    "usage_hours":871
+  },
+  {
+    "device_id":"DEV-0722",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-24 21:22:25.274746",
+    "usage_hours":763
+  },
+  {
+    "device_id":"DEV-0723",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-23 21:22:25.274748",
+    "usage_hours":1312
+  },
+  {
+    "device_id":"DEV-0724",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-09-26 21:22:25.274751",
+    "usage_hours":3490
+  },
+  {
+    "device_id":"DEV-0725",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-06 21:22:25.274754",
+    "usage_hours":2441
+  },
+  {
+    "device_id":"DEV-0726",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-16 21:22:25.274757",
+    "usage_hours":2734
+  },
+  {
+    "device_id":"DEV-0727",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-01 21:22:25.274760",
+    "usage_hours":1886
+  },
+  {
+    "device_id":"DEV-0728",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-19 21:22:25.274763",
+    "usage_hours":3161
+  },
+  {
+    "device_id":"DEV-0729",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-04 21:22:25.274766",
+    "usage_hours":3484
+  },
+  {
+    "device_id":"DEV-0730",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-05 21:22:25.274769",
+    "usage_hours":474
+  },
+  {
+    "device_id":"DEV-0731",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-02 21:22:25.274772",
+    "usage_hours":1919
+  },
+  {
+    "device_id":"DEV-0732",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-28 21:22:25.274775",
+    "usage_hours":3100
+  },
+  {
+    "device_id":"DEV-0733",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-17 21:22:25.274778",
+    "usage_hours":4700
+  },
+  {
+    "device_id":"DEV-0734",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-08 21:22:25.274781",
+    "usage_hours":4400
+  },
+  {
+    "device_id":"DEV-0735",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-20 21:22:25.274784",
+    "usage_hours":1895
+  },
+  {
+    "device_id":"DEV-0736",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-13 21:22:25.274788",
+    "usage_hours":4499
+  },
+  {
+    "device_id":"DEV-0737",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-04 21:22:25.274791",
+    "usage_hours":2014
+  },
+  {
+    "device_id":"DEV-0738",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-03 21:22:25.274794",
+    "usage_hours":2558
+  },
+  {
+    "device_id":"DEV-0739",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-18 21:22:25.274797",
+    "usage_hours":1192
+  },
+  {
+    "device_id":"DEV-0740",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-07 21:22:25.274801",
+    "usage_hours":1310
+  },
+  {
+    "device_id":"DEV-0741",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-03 21:22:25.274804",
+    "usage_hours":1477
+  },
+  {
+    "device_id":"DEV-0742",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-19 21:22:25.274807",
+    "usage_hours":4354
+  },
+  {
+    "device_id":"DEV-0743",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-06 21:22:25.274810",
+    "usage_hours":1771
+  },
+  {
+    "device_id":"DEV-0744",
+    "type":"CT",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-21 21:22:25.274813",
+    "usage_hours":520
+  },
+  {
+    "device_id":"DEV-0745",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-05 21:22:25.274816",
+    "usage_hours":2477
+  },
+  {
+    "device_id":"DEV-0746",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-19 21:22:25.274819",
+    "usage_hours":1086
+  },
+  {
+    "device_id":"DEV-0747",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-22 21:22:25.274822",
+    "usage_hours":2051
+  },
+  {
+    "device_id":"DEV-0748",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-02 21:22:25.274825",
+    "usage_hours":3239
+  },
+  {
+    "device_id":"DEV-0749",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-17 21:22:25.274828",
+    "usage_hours":3157
+  },
+  {
+    "device_id":"DEV-0750",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-03 21:22:25.274830",
+    "usage_hours":3319
+  },
+  {
+    "device_id":"DEV-0751",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-18 21:22:25.274833",
+    "usage_hours":2881
+  },
+  {
+    "device_id":"DEV-0752",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-23 21:22:25.274836",
+    "usage_hours":887
+  },
+  {
+    "device_id":"DEV-0753",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-02 21:22:25.274839",
+    "usage_hours":1451
+  },
+  {
+    "device_id":"DEV-0754",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-23 21:22:25.274842",
+    "usage_hours":1554
+  },
+  {
+    "device_id":"DEV-0755",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-10 21:22:25.274845",
+    "usage_hours":4710
+  },
+  {
+    "device_id":"DEV-0756",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-07 21:22:25.274848",
+    "usage_hours":1057
+  },
+  {
+    "device_id":"DEV-0757",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-05 21:22:25.274851",
+    "usage_hours":4233
+  },
+  {
+    "device_id":"DEV-0758",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-10 21:22:25.274854",
+    "usage_hours":4345
+  },
+  {
+    "device_id":"DEV-0759",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-20 21:22:25.274857",
+    "usage_hours":601
+  },
+  {
+    "device_id":"DEV-0760",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-20 21:22:25.274859",
+    "usage_hours":331
+  },
+  {
+    "device_id":"DEV-0761",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-20 21:22:25.274863",
+    "usage_hours":871
+  },
+  {
+    "device_id":"DEV-0762",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-09-30 21:22:25.274866",
+    "usage_hours":3181
+  },
+  {
+    "device_id":"DEV-0763",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-04 21:22:25.274870",
+    "usage_hours":870
+  },
+  {
+    "device_id":"DEV-0764",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-31 21:22:25.274873",
+    "usage_hours":911
+  },
+  {
+    "device_id":"DEV-0765",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-26 21:22:25.274876",
+    "usage_hours":215
+  },
+  {
+    "device_id":"DEV-0766",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-03 21:22:25.274879",
+    "usage_hours":2411
+  },
+  {
+    "device_id":"DEV-0767",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-22 21:22:25.274882",
+    "usage_hours":3817
+  },
+  {
+    "device_id":"DEV-0768",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-12 21:22:25.274885",
+    "usage_hours":4034
+  },
+  {
+    "device_id":"DEV-0769",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-06 21:22:25.274888",
+    "usage_hours":1344
+  },
+  {
+    "device_id":"DEV-0770",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-30 21:22:25.274891",
+    "usage_hours":4301
+  },
+  {
+    "device_id":"DEV-0771",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-11 21:22:25.274894",
+    "usage_hours":311
+  },
+  {
+    "device_id":"DEV-0772",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-12 21:22:25.274897",
+    "usage_hours":4557
+  },
+  {
+    "device_id":"DEV-0773",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-01 21:22:25.274900",
+    "usage_hours":4082
+  },
+  {
+    "device_id":"DEV-0774",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-18 21:22:25.274903",
+    "usage_hours":4693
+  },
+  {
+    "device_id":"DEV-0775",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-15 21:22:25.274906",
+    "usage_hours":3914
+  },
+  {
+    "device_id":"DEV-0776",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-07 21:22:25.274909",
+    "usage_hours":3141
+  },
+  {
+    "device_id":"DEV-0777",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-19 21:22:25.274912",
+    "usage_hours":101
+  },
+  {
+    "device_id":"DEV-0778",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-21 21:22:25.274915",
+    "usage_hours":3439
+  },
+  {
+    "device_id":"DEV-0779",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-13 21:22:25.274917",
+    "usage_hours":2890
+  },
+  {
+    "device_id":"DEV-0780",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-24 21:22:25.274920",
+    "usage_hours":2197
+  },
+  {
+    "device_id":"DEV-0781",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-08 21:22:25.274923",
+    "usage_hours":2627
+  },
+  {
+    "device_id":"DEV-0782",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-26 21:22:25.274926",
+    "usage_hours":4482
+  },
+  {
+    "device_id":"DEV-0783",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-15 21:22:25.274929",
+    "usage_hours":3572
+  },
+  {
+    "device_id":"DEV-0784",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-17 21:22:25.274932",
+    "usage_hours":3320
+  },
+  {
+    "device_id":"DEV-0785",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-20 21:22:25.274935",
+    "usage_hours":747
+  },
+  {
+    "device_id":"DEV-0786",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-14 21:22:25.274938",
+    "usage_hours":1111
+  },
+  {
+    "device_id":"DEV-0787",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-24 21:22:25.274941",
+    "usage_hours":321
+  },
+  {
+    "device_id":"DEV-0788",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-22 21:22:25.274944",
+    "usage_hours":3491
+  },
+  {
+    "device_id":"DEV-0789",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-22 21:22:25.274947",
+    "usage_hours":3173
+  },
+  {
+    "device_id":"DEV-0790",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-04 21:22:25.274950",
+    "usage_hours":3850
+  },
+  {
+    "device_id":"DEV-0791",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-30 21:22:25.274953",
+    "usage_hours":4124
+  },
+  {
+    "device_id":"DEV-0792",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-04 21:22:25.274957",
+    "usage_hours":943
+  },
+  {
+    "device_id":"DEV-0793",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-18 21:22:25.274960",
+    "usage_hours":2614
+  },
+  {
+    "device_id":"DEV-0794",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-23 21:22:25.274963",
+    "usage_hours":4702
+  },
+  {
+    "device_id":"DEV-0795",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-14 21:22:25.274966",
+    "usage_hours":997
+  },
+  {
+    "device_id":"DEV-0796",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-25 21:22:25.274969",
+    "usage_hours":858
+  },
+  {
+    "device_id":"DEV-0797",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-12 21:22:25.274972",
+    "usage_hours":492
+  },
+  {
+    "device_id":"DEV-0798",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-16 21:22:25.274975",
+    "usage_hours":4647
+  },
+  {
+    "device_id":"DEV-0799",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-16 21:22:25.274978",
+    "usage_hours":1809
+  },
+  {
+    "device_id":"DEV-0800",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-01 21:22:25.274981",
+    "usage_hours":1375
+  },
+  {
+    "device_id":"DEV-0801",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-22 21:22:25.274984",
+    "usage_hours":2308
+  },
+  {
+    "device_id":"DEV-0802",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-31 21:22:25.274987",
+    "usage_hours":630
+  },
+  {
+    "device_id":"DEV-0803",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-23 21:22:25.274989",
+    "usage_hours":3756
+  },
+  {
+    "device_id":"DEV-0804",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-04 21:22:25.274992",
+    "usage_hours":4855
+  },
+  {
+    "device_id":"DEV-0805",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-21 21:22:25.274995",
+    "usage_hours":4804
+  },
+  {
+    "device_id":"DEV-0806",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-27 21:22:25.274998",
+    "usage_hours":2532
+  },
+  {
+    "device_id":"DEV-0807",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-02 21:22:25.275001",
+    "usage_hours":4078
+  },
+  {
+    "device_id":"DEV-0808",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-26 21:22:25.275004",
+    "usage_hours":3840
+  },
+  {
+    "device_id":"DEV-0809",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-04 21:22:25.275007",
+    "usage_hours":2422
+  },
+  {
+    "device_id":"DEV-0810",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-18 21:22:25.275010",
+    "usage_hours":1865
+  },
+  {
+    "device_id":"DEV-0811",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-27 21:22:25.275013",
+    "usage_hours":2755
+  },
+  {
+    "device_id":"DEV-0812",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-25 21:22:25.275016",
+    "usage_hours":1074
+  },
+  {
+    "device_id":"DEV-0813",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-14 21:22:25.275020",
+    "usage_hours":116
+  },
+  {
+    "device_id":"DEV-0814",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-06 21:22:25.275023",
+    "usage_hours":3934
+  },
+  {
+    "device_id":"DEV-0815",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-09 21:22:25.275026",
+    "usage_hours":4366
+  },
+  {
+    "device_id":"DEV-0816",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-12 21:22:25.275029",
+    "usage_hours":783
+  },
+  {
+    "device_id":"DEV-0817",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-12 21:22:25.275032",
+    "usage_hours":526
+  },
+  {
+    "device_id":"DEV-0818",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-05 21:22:25.275036",
+    "usage_hours":1731
+  },
+  {
+    "device_id":"DEV-0819",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-16 21:22:25.275039",
+    "usage_hours":2400
+  },
+  {
+    "device_id":"DEV-0820",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-05 21:22:25.275042",
+    "usage_hours":2042
+  },
+  {
+    "device_id":"DEV-0821",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-23 21:22:25.275045",
+    "usage_hours":2034
+  },
+  {
+    "device_id":"DEV-0822",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-28 21:22:25.275048",
+    "usage_hours":1801
+  },
+  {
+    "device_id":"DEV-0823",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-21 21:22:25.275051",
+    "usage_hours":4198
+  },
+  {
+    "device_id":"DEV-0824",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-21 21:22:25.275054",
+    "usage_hours":636
+  },
+  {
+    "device_id":"DEV-0825",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-20 21:22:25.275057",
+    "usage_hours":1759
+  },
+  {
+    "device_id":"DEV-0826",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-16 21:22:25.275060",
+    "usage_hours":668
+  },
+  {
+    "device_id":"DEV-0827",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-06 21:22:25.275064",
+    "usage_hours":4779
+  },
+  {
+    "device_id":"DEV-0828",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-18 21:22:25.275066",
+    "usage_hours":2957
+  },
+  {
+    "device_id":"DEV-0829",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-26 21:22:25.275069",
+    "usage_hours":4827
+  },
+  {
+    "device_id":"DEV-0830",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-22 21:22:25.275072",
+    "usage_hours":4359
+  },
+  {
+    "device_id":"DEV-0831",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-26 21:22:25.275075",
+    "usage_hours":4666
+  },
+  {
+    "device_id":"DEV-0832",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-16 21:22:25.275078",
+    "usage_hours":742
+  },
+  {
+    "device_id":"DEV-0833",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-13 21:22:25.275082",
+    "usage_hours":2409
+  },
+  {
+    "device_id":"DEV-0834",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-30 21:22:25.275085",
+    "usage_hours":531
+  },
+  {
+    "device_id":"DEV-0835",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-15 21:22:25.275087",
+    "usage_hours":1898
+  },
+  {
+    "device_id":"DEV-0836",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-04 21:22:25.275091",
+    "usage_hours":4529
+  },
+  {
+    "device_id":"DEV-0837",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-08 21:22:25.275094",
+    "usage_hours":639
+  },
+  {
+    "device_id":"DEV-0838",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-01 21:22:25.275097",
+    "usage_hours":2698
+  },
+  {
+    "device_id":"DEV-0839",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-23 21:22:25.275100",
+    "usage_hours":2601
+  },
+  {
+    "device_id":"DEV-0840",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-23 21:22:25.275103",
+    "usage_hours":3395
+  },
+  {
+    "device_id":"DEV-0841",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-27 21:22:25.275106",
+    "usage_hours":1674
+  },
+  {
+    "device_id":"DEV-0842",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-18 21:22:25.275109",
+    "usage_hours":2763
+  },
+  {
+    "device_id":"DEV-0843",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-10 21:22:25.275112",
+    "usage_hours":3973
+  },
+  {
+    "device_id":"DEV-0844",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-21 21:22:25.275115",
+    "usage_hours":3613
+  },
+  {
+    "device_id":"DEV-0845",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-08 21:22:25.275118",
+    "usage_hours":1928
+  },
+  {
+    "device_id":"DEV-0846",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-27 21:22:25.275122",
+    "usage_hours":1369
+  },
+  {
+    "device_id":"DEV-0847",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-01 21:22:25.275125",
+    "usage_hours":4987
+  },
+  {
+    "device_id":"DEV-0848",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-15 21:22:25.275128",
+    "usage_hours":260
+  },
+  {
+    "device_id":"DEV-0849",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-16 21:22:25.275130",
+    "usage_hours":4199
+  },
+  {
+    "device_id":"DEV-0850",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-26 21:22:25.275133",
+    "usage_hours":818
+  },
+  {
+    "device_id":"DEV-0851",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-01 21:22:25.275137",
+    "usage_hours":3572
+  },
+  {
+    "device_id":"DEV-0852",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-21 21:22:25.275142",
+    "usage_hours":3157
+  },
+  {
+    "device_id":"DEV-0853",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-07 21:22:25.275145",
+    "usage_hours":1282
+  },
+  {
+    "device_id":"DEV-0854",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-13 21:22:25.275148",
+    "usage_hours":2266
+  },
+  {
+    "device_id":"DEV-0855",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-03 21:22:25.275151",
+    "usage_hours":2654
+  },
+  {
+    "device_id":"DEV-0856",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-16 21:22:25.275154",
+    "usage_hours":1314
+  },
+  {
+    "device_id":"DEV-0857",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-20 21:22:25.275157",
+    "usage_hours":3226
+  },
+  {
+    "device_id":"DEV-0858",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-30 21:22:25.275160",
+    "usage_hours":2363
+  },
+  {
+    "device_id":"DEV-0859",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-06 21:22:25.275163",
+    "usage_hours":1910
+  },
+  {
+    "device_id":"DEV-0860",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-27 21:22:25.275166",
+    "usage_hours":3992
+  },
+  {
+    "device_id":"DEV-0861",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-29 21:22:25.275172",
+    "usage_hours":3222
+  },
+  {
+    "device_id":"DEV-0862",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-25 21:22:25.275176",
+    "usage_hours":4903
+  },
+  {
+    "device_id":"DEV-0863",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-09 21:22:25.275179",
+    "usage_hours":3671
+  },
+  {
+    "device_id":"DEV-0864",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-27 21:22:25.275182",
+    "usage_hours":3166
+  },
+  {
+    "device_id":"DEV-0865",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-08 21:22:25.275185",
+    "usage_hours":3997
+  },
+  {
+    "device_id":"DEV-0866",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-15 21:22:25.275188",
+    "usage_hours":382
+  },
+  {
+    "device_id":"DEV-0867",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-16 21:22:25.275191",
+    "usage_hours":951
+  },
+  {
+    "device_id":"DEV-0868",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-05 21:22:25.275194",
+    "usage_hours":3230
+  },
+  {
+    "device_id":"DEV-0869",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-23 21:22:25.275197",
+    "usage_hours":4410
+  },
+  {
+    "device_id":"DEV-0870",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-05 21:22:25.275200",
+    "usage_hours":489
+  },
+  {
+    "device_id":"DEV-0871",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-14 21:22:25.275203",
+    "usage_hours":1668
+  },
+  {
+    "device_id":"DEV-0872",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-31 21:22:25.275206",
+    "usage_hours":4611
+  },
+  {
+    "device_id":"DEV-0873",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-18 21:22:25.275209",
+    "usage_hours":4812
+  },
+  {
+    "device_id":"DEV-0874",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-24 21:22:25.275212",
+    "usage_hours":2072
+  },
+  {
+    "device_id":"DEV-0875",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-12 21:22:25.275215",
+    "usage_hours":4656
+  },
+  {
+    "device_id":"DEV-0876",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-24 21:22:25.275218",
+    "usage_hours":811
+  },
+  {
+    "device_id":"DEV-0877",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-25 21:22:25.275221",
+    "usage_hours":2662
+  },
+  {
+    "device_id":"DEV-0878",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-14 21:22:25.275224",
+    "usage_hours":487
+  },
+  {
+    "device_id":"DEV-0879",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-01 21:22:25.275228",
+    "usage_hours":2978
+  },
+  {
+    "device_id":"DEV-0880",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-15 21:22:25.275231",
+    "usage_hours":3048
+  },
+  {
+    "device_id":"DEV-0881",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-12 21:22:25.275234",
+    "usage_hours":2083
+  },
+  {
+    "device_id":"DEV-0882",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-16 21:22:25.275237",
+    "usage_hours":827
+  },
+  {
+    "device_id":"DEV-0883",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-08 21:22:25.275240",
+    "usage_hours":2066
+  },
+  {
+    "device_id":"DEV-0884",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-26 21:22:25.275243",
+    "usage_hours":1641
+  },
+  {
+    "device_id":"DEV-0885",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-13 21:22:25.275246",
+    "usage_hours":3445
+  },
+  {
+    "device_id":"DEV-0886",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-14 21:22:25.275249",
+    "usage_hours":1191
+  },
+  {
+    "device_id":"DEV-0887",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-06 21:22:25.275252",
+    "usage_hours":4925
+  },
+  {
+    "device_id":"DEV-0888",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-02 21:22:25.275255",
+    "usage_hours":2561
+  },
+  {
+    "device_id":"DEV-0889",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-06 21:22:25.275258",
+    "usage_hours":1664
+  },
+  {
+    "device_id":"DEV-0890",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-31 21:22:25.275261",
+    "usage_hours":2472
+  },
+  {
+    "device_id":"DEV-0891",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-15 21:22:25.275264",
+    "usage_hours":3933
+  },
+  {
+    "device_id":"DEV-0892",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-12 21:22:25.275268",
+    "usage_hours":1186
+  },
+  {
+    "device_id":"DEV-0893",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-04 21:22:25.275271",
+    "usage_hours":606
+  },
+  {
+    "device_id":"DEV-0894",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-14 21:22:25.275274",
+    "usage_hours":4699
+  },
+  {
+    "device_id":"DEV-0895",
+    "type":"CT",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-24 21:22:25.275277",
+    "usage_hours":895
+  },
+  {
+    "device_id":"DEV-0896",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-18 21:22:25.275282",
+    "usage_hours":1330
+  },
+  {
+    "device_id":"DEV-0897",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-03 21:22:25.275285",
+    "usage_hours":4368
+  },
+  {
+    "device_id":"DEV-0898",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-06 21:22:25.275288",
+    "usage_hours":678
+  },
+  {
+    "device_id":"DEV-0899",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-31 21:22:25.275291",
+    "usage_hours":1306
+  },
+  {
+    "device_id":"DEV-0900",
+    "type":"MRI",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-31 21:22:25.275294",
+    "usage_hours":1260
+  },
+  {
+    "device_id":"DEV-0901",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-09 21:22:25.275297",
+    "usage_hours":1383
+  },
+  {
+    "device_id":"DEV-0902",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-23 21:22:25.275300",
+    "usage_hours":2935
+  },
+  {
+    "device_id":"DEV-0903",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-17 21:22:25.275303",
+    "usage_hours":933
+  },
+  {
+    "device_id":"DEV-0904",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-29 21:22:25.275306",
+    "usage_hours":4354
+  },
+  {
+    "device_id":"DEV-0905",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-12 21:22:25.275309",
+    "usage_hours":1745
+  },
+  {
+    "device_id":"DEV-0906",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-11 21:22:25.275312",
+    "usage_hours":4407
+  },
+  {
+    "device_id":"DEV-0907",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-14 21:22:25.275315",
+    "usage_hours":3653
+  },
+  {
+    "device_id":"DEV-0908",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-29 21:22:25.275318",
+    "usage_hours":2288
+  },
+  {
+    "device_id":"DEV-0909",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-03 21:22:25.275321",
+    "usage_hours":1211
+  },
+  {
+    "device_id":"DEV-0910",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-03 21:22:25.275325",
+    "usage_hours":771
+  },
+  {
+    "device_id":"DEV-0911",
+    "type":"CT",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-12 21:22:25.275327",
+    "usage_hours":809
+  },
+  {
+    "device_id":"DEV-0912",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-25 21:22:25.275330",
+    "usage_hours":4221
+  },
+  {
+    "device_id":"DEV-0913",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-04 21:22:25.275333",
+    "usage_hours":2921
+  },
+  {
+    "device_id":"DEV-0914",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-27 21:22:25.275336",
+    "usage_hours":3005
+  },
+  {
+    "device_id":"DEV-0915",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-23 21:22:25.275339",
+    "usage_hours":1778
+  },
+  {
+    "device_id":"DEV-0916",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-10 21:22:25.275342",
+    "usage_hours":4817
+  },
+  {
+    "device_id":"DEV-0917",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-15 21:22:25.275345",
+    "usage_hours":3880
+  },
+  {
+    "device_id":"DEV-0918",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-09-28 21:22:25.275348",
+    "usage_hours":289
+  },
+  {
+    "device_id":"DEV-0919",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-08 21:22:25.275352",
+    "usage_hours":4982
+  },
+  {
+    "device_id":"DEV-0920",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-20 21:22:25.275354",
+    "usage_hours":3958
+  },
+  {
+    "device_id":"DEV-0921",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-15 21:22:25.275358",
+    "usage_hours":3206
+  },
+  {
+    "device_id":"DEV-0922",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-24 21:22:25.275361",
+    "usage_hours":2770
+  },
+  {
+    "device_id":"DEV-0923",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-17 21:22:25.275364",
+    "usage_hours":642
+  },
+  {
+    "device_id":"DEV-0924",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-12 21:22:25.275367",
+    "usage_hours":2988
+  },
+  {
+    "device_id":"DEV-0925",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-24 21:22:25.275370",
+    "usage_hours":3906
+  },
+  {
+    "device_id":"DEV-0926",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-31 21:22:25.275373",
+    "usage_hours":2024
+  },
+  {
+    "device_id":"DEV-0927",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-11 21:22:25.275376",
+    "usage_hours":3054
+  },
+  {
+    "device_id":"DEV-0928",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-18 21:22:25.275378",
+    "usage_hours":408
+  },
+  {
+    "device_id":"DEV-0929",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-14 21:22:25.275381",
+    "usage_hours":3805
+  },
+  {
+    "device_id":"DEV-0930",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-04 21:22:25.275385",
+    "usage_hours":2744
+  },
+  {
+    "device_id":"DEV-0931",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-21 21:22:25.275387",
+    "usage_hours":3872
+  },
+  {
+    "device_id":"DEV-0932",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-28 21:22:25.275391",
+    "usage_hours":1334
+  },
+  {
+    "device_id":"DEV-0933",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-12 21:22:25.275394",
+    "usage_hours":548
+  },
+  {
+    "device_id":"DEV-0934",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-13 21:22:25.275397",
+    "usage_hours":3512
+  },
+  {
+    "device_id":"DEV-0935",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-09 21:22:25.275400",
+    "usage_hours":1899
+  },
+  {
+    "device_id":"DEV-0936",
+    "type":"Ventilator",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-09 21:22:25.275403",
+    "usage_hours":3433
+  },
+  {
+    "device_id":"DEV-0937",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-05 21:22:25.275406",
+    "usage_hours":3948
+  },
+  {
+    "device_id":"DEV-0938",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-13 21:22:25.275409",
+    "usage_hours":1481
+  },
+  {
+    "device_id":"DEV-0939",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-04 21:22:25.275413",
+    "usage_hours":2263
+  },
+  {
+    "device_id":"DEV-0940",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-14 21:22:25.275416",
+    "usage_hours":2757
+  },
+  {
+    "device_id":"DEV-0941",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-11 21:22:25.275420",
+    "usage_hours":4824
+  },
+  {
+    "device_id":"DEV-0942",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-10 21:22:25.275423",
+    "usage_hours":4282
+  },
+  {
+    "device_id":"DEV-0943",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-22 21:22:25.275426",
+    "usage_hours":1573
+  },
+  {
+    "device_id":"DEV-0944",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-20 21:22:25.275429",
+    "usage_hours":328
+  },
+  {
+    "device_id":"DEV-0945",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-09-28 21:22:25.275433",
+    "usage_hours":3854
+  },
+  {
+    "device_id":"DEV-0946",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-25 21:22:25.275436",
+    "usage_hours":4283
+  },
+  {
+    "device_id":"DEV-0947",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-17 21:22:25.275439",
+    "usage_hours":1724
+  },
+  {
+    "device_id":"DEV-0948",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-07 21:22:25.275442",
+    "usage_hours":1615
+  },
+  {
+    "device_id":"DEV-0949",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-13 21:22:25.275445",
+    "usage_hours":2133
+  },
+  {
+    "device_id":"DEV-0950",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-12 21:22:25.275447",
+    "usage_hours":727
+  },
+  {
+    "device_id":"DEV-0951",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-24 21:22:25.275451",
+    "usage_hours":1428
+  },
+  {
+    "device_id":"DEV-0952",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-21 21:22:25.275454",
+    "usage_hours":3017
+  },
+  {
+    "device_id":"DEV-0953",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-01-03 21:22:25.275457",
+    "usage_hours":3954
+  },
+  {
+    "device_id":"DEV-0954",
+    "type":"CT",
+    "location":"Room1",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-12 21:22:25.275460",
+    "usage_hours":2831
+  },
+  {
+    "device_id":"DEV-0955",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-11 21:22:25.275463",
+    "usage_hours":2091
+  },
+  {
+    "device_id":"DEV-0956",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-13 21:22:25.275466",
+    "usage_hours":2185
+  },
+  {
+    "device_id":"DEV-0957",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-03 21:22:25.275469",
+    "usage_hours":4501
+  },
+  {
+    "device_id":"DEV-0958",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-12 21:22:25.275473",
+    "usage_hours":2609
+  },
+  {
+    "device_id":"DEV-0959",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-14 21:22:25.275475",
+    "usage_hours":1030
+  },
+  {
+    "device_id":"DEV-0960",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-02 21:22:25.275479",
+    "usage_hours":1376
+  },
+  {
+    "device_id":"DEV-0961",
+    "type":"MRI",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-15 21:22:25.275482",
+    "usage_hours":3497
+  },
+  {
+    "device_id":"DEV-0962",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-11 21:22:25.275485",
+    "usage_hours":4709
+  },
+  {
+    "device_id":"DEV-0963",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-19 21:22:25.275487",
+    "usage_hours":131
+  },
+  {
+    "device_id":"DEV-0964",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-01-04 21:22:25.275491",
+    "usage_hours":2475
+  },
+  {
+    "device_id":"DEV-0965",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-22 21:22:25.275494",
+    "usage_hours":1458
+  },
+  {
+    "device_id":"DEV-0966",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-24 21:22:25.275497",
+    "usage_hours":1032
+  },
+  {
+    "device_id":"DEV-0967",
+    "type":"CT",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-07 21:22:25.275500",
+    "usage_hours":1968
+  },
+  {
+    "device_id":"DEV-0968",
+    "type":"MRI",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-12-02 21:22:25.275503",
+    "usage_hours":4003
+  },
+  {
+    "device_id":"DEV-0969",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-29 21:22:25.275506",
+    "usage_hours":3336
+  },
+  {
+    "device_id":"DEV-0970",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-03-07 21:22:25.275509",
+    "usage_hours":3241
+  },
+  {
+    "device_id":"DEV-0971",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-06 21:22:25.275512",
+    "usage_hours":530
+  },
+  {
+    "device_id":"DEV-0972",
+    "type":"Ventilator",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-28 21:22:25.275515",
+    "usage_hours":327
+  },
+  {
+    "device_id":"DEV-0973",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-10-11 21:22:25.275520",
+    "usage_hours":3930
+  },
+  {
+    "device_id":"DEV-0974",
+    "type":"CT",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-09 21:22:25.275525",
+    "usage_hours":1270
+  },
+  {
+    "device_id":"DEV-0975",
+    "type":"CT",
+    "location":"Room2",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-13 21:22:25.275528",
+    "usage_hours":2844
+  },
+  {
+    "device_id":"DEV-0976",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-09-30 21:22:25.275531",
+    "usage_hours":1199
+  },
+  {
+    "device_id":"DEV-0977",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-11-10 21:22:25.275534",
+    "usage_hours":4062
+  },
+  {
+    "device_id":"DEV-0978",
+    "type":"CT",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-02 21:22:25.275536",
+    "usage_hours":2833
+  },
+  {
+    "device_id":"DEV-0979",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-23 21:22:25.275539",
+    "usage_hours":3784
+  },
+  {
+    "device_id":"DEV-0980",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-03 21:22:25.275542",
+    "usage_hours":418
+  },
+  {
+    "device_id":"DEV-0981",
+    "type":"CT",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-05 21:22:25.275545",
+    "usage_hours":928
+  },
+  {
+    "device_id":"DEV-0982",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-25 21:22:25.275548",
+    "usage_hours":3966
+  },
+  {
+    "device_id":"DEV-0983",
+    "type":"X-ray",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-01-20 21:22:25.275551",
+    "usage_hours":3458
+  },
+  {
+    "device_id":"DEV-0984",
+    "type":"MRI",
+    "location":"ICU",
+    "status":"Idle",
+    "last_gmp_check":"2025-11-19 21:22:25.275554",
+    "usage_hours":4497
+  },
+  {
+    "device_id":"DEV-0985",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2026-02-12 21:22:25.275557",
+    "usage_hours":3272
+  },
+  {
+    "device_id":"DEV-0986",
+    "type":"X-ray",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-04 21:22:25.275560",
+    "usage_hours":4372
+  },
+  {
+    "device_id":"DEV-0987",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-15 21:22:25.275563",
+    "usage_hours":1094
+  },
+  {
+    "device_id":"DEV-0988",
+    "type":"X-ray",
+    "location":"ICU",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-14 21:22:25.275566",
+    "usage_hours":1523
+  },
+  {
+    "device_id":"DEV-0989",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-02-19 21:22:25.275569",
+    "usage_hours":1772
+  },
+  {
+    "device_id":"DEV-0990",
+    "type":"X-ray",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-10 21:22:25.275572",
+    "usage_hours":1938
+  },
+  {
+    "device_id":"DEV-0991",
+    "type":"Ventilator",
+    "location":"Room2",
+    "status":"Maintenance",
+    "last_gmp_check":"2025-11-20 21:22:25.275575",
+    "usage_hours":2886
+  },
+  {
+    "device_id":"DEV-0992",
+    "type":"CT",
+    "location":"Room1",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-06 21:22:25.275578",
+    "usage_hours":2402
+  },
+  {
+    "device_id":"DEV-0993",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"In Use",
+    "last_gmp_check":"2025-10-05 21:22:25.275581",
+    "usage_hours":771
+  },
+  {
+    "device_id":"DEV-0994",
+    "type":"Ventilator",
+    "location":"ER",
+    "status":"Idle",
+    "last_gmp_check":"2026-03-07 21:22:25.275584",
+    "usage_hours":600
+  },
+  {
+    "device_id":"DEV-0995",
+    "type":"X-ray",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2026-02-23 21:22:25.275586",
+    "usage_hours":3126
+  },
+  {
+    "device_id":"DEV-0996",
+    "type":"MRI",
+    "location":"Ward",
+    "status":"Idle",
+    "last_gmp_check":"2025-10-19 21:22:25.275589",
+    "usage_hours":4981
+  },
+  {
+    "device_id":"DEV-0997",
+    "type":"CT",
+    "location":"ER",
+    "status":"In Use",
+    "last_gmp_check":"2025-12-17 21:22:25.275592",
+    "usage_hours":1378
+  },
+  {
+    "device_id":"DEV-0998",
+    "type":"Ventilator",
+    "location":"Ward",
+    "status":"Maintenance",
+    "last_gmp_check":"2026-03-05 21:22:25.275595",
+    "usage_hours":1213
+  },
+  {
+    "device_id":"DEV-0999",
+    "type":"MRI",
+    "location":"Room2",
+    "status":"Idle",
+    "last_gmp_check":"2025-12-09 21:22:25.275598",
+    "usage_hours":1870
+  }
+]
